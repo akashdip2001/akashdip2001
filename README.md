@@ -55,3 +55,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdip2001&show_icons=true&locale=en" alt="akashdip2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdip2001&" alt="akashdip2001" /></p>
+
+<img align="right" alt="Coding" width="400" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3136893iE922AB7EDCF3C222/image-size/large?v=v2&px=999">
+<img align="right" alt="Coding" width="400" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3101691i45CD3A72419C4952/image-size/large?v=v2&px=999">
+<img align="right" alt="Coding" width="400" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3204860i383D2C941F03AA88/image-size/large?v=v2&px=999">
+<img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/NTmtzmUOYJk/maxresdefault.jpg">
