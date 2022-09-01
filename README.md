@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/akashdipaot2001" target="blank"><img src="https://img.shields.io/twitter/follow/akashdipaot2001?logo=twitter&style=for-the-badge" alt="akashdipaot2001" /></a> </p>
 
-- 🔭 I’m currently working on [new Technology](https://linktr.ee/AkashdipMahapatra)
+- 🔭 I’m currently working on [**my web-site**](https://linktr.ee/AkashdipMahapatra)
 
 - 🌱 I’m currently learning **Hacking**
 
-- 👨‍💻 All of my projects are available at [my Linkedin](https://www.linkedin.com/in/akashdip-mahapatra-330687204/)
+- 👨‍💻 All of my projects are available at [my **Linkedin**](https://www.linkedin.com/in/akashdip-mahapatra-330687204/)
 
 - 💬 **expert in Kali-linux, Love Drawings , extra knowledge - AutoCAD,FreeCAD,GIMP,Shotcut video editor**
 
