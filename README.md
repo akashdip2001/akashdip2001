@@ -3,6 +3,7 @@
 <h1 align="center">AKASHDIP MAHAPATRA</h1>
 <h3 align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3>
 <img align="right" alt="Coding" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
+<br>
 <img align="center" alt="Mechanical Engineering" width="100" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdip2001&label=Profile%20views&color=0e75b6&style=flat" alt="akashdip2001" /> </p>
@@ -38,13 +39,13 @@
 </p>
 
 
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashdip2001&show_icons=true&locale=en&layout=compact" alt="akashdip2001" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdip2001&show_icons=true&locale=en" alt="akashdip2001" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdip2001&" alt="akashdip2001" /></p>
-
+<br>
 
 [![YouTube](https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://linktr.ee/AkashdipMahapatra)
