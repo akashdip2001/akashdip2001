@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **akashdipmahapatra2001@gmail.com**
 
-- 📄 resume [click](https://drive.google.com/file/d/1kNDlwKoBiX_YZ99vweD6l31c9prjtjjD/view?usp=sharing)
+- 📄 resume [click](https://akashdip2001.github.io/CV-1/)
 
 - ⚡ Fun fact **E=mc^2**
 
