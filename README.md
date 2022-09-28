@@ -58,3 +58,5 @@
 https://youtu.be/ysBF9EfvWkk?t=428
 
 
+
+![QR jpg](https://user-images.githubusercontent.com/81384987/192692360-f8d705b3-9924-4e8c-8c94-ada6739330e4.jpg)
