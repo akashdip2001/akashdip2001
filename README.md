@@ -1,4 +1,6 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQE04IkwnGjkfA/profile-displaybackgroundimage-shrink_350_1400/0/1653333700023?e=1668038400&v=beta&t=GoUEhql2-UsEoOPEozQYPzz-7Ezoe9LesPj9nM0vkes)](https://akashdip2001.io)
+![akash AOT](https://user-images.githubusercontent.com/81384987/202706422-56968ab6-c65f-48e4-86e9-2474311969ee.png)
+
+
 
 <h1 align="center">AKASHDIP MAHAPATRA</h1>
 <h3 align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3>
