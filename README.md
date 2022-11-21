@@ -1,5 +1,9 @@
 <h1 align="center">Hello, 4-Dimensional Humans </h1>
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/81384987/203163055-a0191d58-875a-4291-a072-265f25ba897b.svg" height="150">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ![akash AOT](https://user-images.githubusercontent.com/81384987/202706422-56968ab6-c65f-48e4-86e9-2474311969ee.png)
@@ -112,11 +116,8 @@
 
 # National Award 2012
 
-https://youtu.be/ysBF9EfvWkk?t=428
+https://youtu.be/ysBF9EfvWkk?t=428 
+ <br>
+ <br>
+[**my web-site**](https://akashdip2001.github.io/linktree/)
 
-<div align = "center">
- 
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{akashdip2001}/count.svg)
-
-</div>
