@@ -53,7 +53,7 @@
 
 <h3> Skills</h3>
 
-<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
+<a target="blank" href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
 <a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/python--v1.png'> </a>
 <a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-programming.png'> </a>
 <a href= https://www.geeksforgeeks.org/c-plus-plus/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-plus-plus-logo.png'> </a>
@@ -77,10 +77,10 @@
 <br>
 <br>
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='150px' src ='https://akashdipmahapatra.netlify.app/wp-content/uploads/2022/06/AutocadCAD-300x101.png'> </a>&nbsp;
-<a href= 'https://youtube.com/playlist?list=PL_RecMEcs_p9ch5BZzi7zywnL7niWHM8g'/> <img width ='160px' src ='https://user-images.githubusercontent.com/81384987/203127620-bd1a708a-4b0f-49d7-a7c6-e1f51307549b.png'> </a>
+<a href= 'https://youtube.com/playlist?list=PL_RecMEcs_p9ch5BZzi7zywnL7niWHM8g'/> <img width ='160px' src ='https://user-images.githubusercontent.com/81384987/203127620-bd1a708a-4b0f-49d7-a7c6-e1f51307549b.png'> </a>&nbsp;
+<a href= #/> <img width ='130px' src ='https://user-images.githubusercontent.com/81384987/203129870-842d0a8a-7805-4174-b53e-f5a89250a6cd.png'> </a>
 <br>
 <br>
-
 
 
 [![Akashdip's's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashdip2001&theme=xcode)](https://github.com/akashdip2001)
