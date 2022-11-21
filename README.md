@@ -77,8 +77,8 @@
 <br>
 <br>
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='150px' src ='https://akashdipmahapatra.netlify.app/wp-content/uploads/2022/06/AutocadCAD-300x101.png'> </a>&nbsp;
-<a href= 'https://youtube.com/playlist?list=PL_RecMEcs_p9ch5BZzi7zywnL7niWHM8g'/> <img width ='160px' src ='https://user-images.githubusercontent.com/81384987/203127620-bd1a708a-4b0f-49d7-a7c6-e1f51307549b.png'> </a>&nbsp;
-<a href= #/> <img width ='130px' src ='https://user-images.githubusercontent.com/81384987/203129870-842d0a8a-7805-4174-b53e-f5a89250a6cd.png'> </a>
+<a href= 'https://youtube.com/playlist?list=PL_RecMEcs_p9ch5BZzi7zywnL7niWHM8g'/> <img width ='180px' src ='https://user-images.githubusercontent.com/81384987/203127620-bd1a708a-4b0f-49d7-a7c6-e1f51307549b.png'> </a>&nbsp;
+<a href= #/> <img width ='170px' src ='https://user-images.githubusercontent.com/81384987/203129870-842d0a8a-7805-4174-b53e-f5a89250a6cd.png'> </a>
 <br>
 <br>
 
@@ -102,8 +102,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdip2001&" alt="akashdip2001" /></p>
 <br>
 
-[![YouTube](https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
-[![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://linktr.ee/AkashdipMahapatra)
+---
+<img align="left" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/203149442-c6ebb3af-d7c7-4b05-afd7-b3b4dd45a306.png">
+<br>
+<img align="right" alt="Coding" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/192692360-f8d705b3-9924-4e8c-8c94-ada6739330e4.jpg"> 
+
+[![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://akashdip2001.github.io/linktree/)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
 
 
@@ -111,7 +115,4 @@
 
 https://youtu.be/ysBF9EfvWkk?t=428
 
-
-
-![QR jpg](https://user-images.githubusercontent.com/81384987/192692360-f8d705b3-9924-4e8c-8c94-ada6739330e4.jpg)
-.
+_
