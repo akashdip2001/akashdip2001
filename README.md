@@ -47,8 +47,8 @@
 <a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash aot" height="30" width="40" /></a>
 <a href="https://linktr.ee/AkashdipMahapatra" target="blank"><img align="center" src="https://d1fdloi71mui9q.cloudfront.net/8Ve5ek9uTReJwcW3kNI9_VuqJn6NiZ2bAQp7l" alt="linktree" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/akashdip2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashdip2001" height="30" width="40" /></a>
-<a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="center" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo" alt="akashdip2001" height="40" width="40" /></a>
-
+<a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="center" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo" alt="akashdip2001" height="40" width="40" /></a>&nbsp;
+<a href="mailto: akashdipmahapatra2001@gmail.com" target="blank"><img align="center" height="40" width="40px" src="https://img.icons8.com/color/144/000000/gmail-new.png" /></a>
 </p>
 
 <h3> Skills</h3>
@@ -74,10 +74,13 @@
 <a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
 <a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
 <a href= https://www.docker.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/docker.png'> </a>
+<br>
+<br>
+<a href= https://youtu.be/ErIWwIEwdRA/> <img width ='150px' src ='https://akashdipmahapatra.netlify.app/wp-content/uploads/2022/06/AutocadCAD-300x101.png'> </a>&nbsp;
+<a href= 'https://youtube.com/playlist?list=PL_RecMEcs_p9ch5BZzi7zywnL7niWHM8g'/> <img width ='160px' src ='https://user-images.githubusercontent.com/81384987/203127620-bd1a708a-4b0f-49d7-a7c6-e1f51307549b.png'> </a>
+<br>
+<br>
 
-<br>
-<br>
-<br>
 
 
 [![Akashdip's's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashdip2001&theme=xcode)](https://github.com/akashdip2001)
