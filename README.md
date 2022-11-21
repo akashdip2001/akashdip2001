@@ -83,7 +83,7 @@
 <br>
 
 
-[![Akashdip's's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashdip2001&theme=xcode)](https://github.com/akashdip2001)
+[![Akashdip's's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashdip2001&theme=react-dark)](https://github.com/akashdip2001)
 <br>
 
 <div align = "center">
