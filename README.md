@@ -108,7 +108,8 @@
 ---
 <img align="left" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/203149442-c6ebb3af-d7c7-4b05-afd7-b3b4dd45a306.png">
 <br>&nbsp;
-<img align="right" alt="Coding" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/192692360-f8d705b3-9924-4e8c-8c94-ada6739330e4.jpg"> &nbsp;
+<img align="right" alt="Coding" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/192692360-f8d705b3-9924-4e8c-8c94-ada6739330e4.jpg">
+    <br>&nbsp;
 
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://akashdip2001.github.io/linktree/)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
