@@ -19,7 +19,7 @@
 <h3 align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
+<img align="right" alt="akashdip mahapatra" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
 <br>&nbsp;
 <img align="center" alt="Mechanical Engineering" width="100" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo"> 
 <br>
@@ -105,9 +105,9 @@
 <br>
 
 ---
-<img align="left" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/203149442-c6ebb3af-d7c7-4b05-afd7-b3b4dd45a306.png">
+<img align="left" alt="akashdip mahapatra" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/203149442-c6ebb3af-d7c7-4b05-afd7-b3b4dd45a306.png">
 <br>&nbsp;
-<img align="right" alt="Coding" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/192692360-f8d705b3-9924-4e8c-8c94-ada6739330e4.jpg">
+<img align="right" alt="qr code" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/192692360-f8d705b3-9924-4e8c-8c94-ada6739330e4.jpg">
     <br>&nbsp;
 
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://akashdip2001.github.io/linktree/)
@@ -126,5 +126,5 @@ https://youtu.be/ysBF9EfvWkk?t=428
 
     
     
-    
-    https://user-images.githubusercontent.com/81384987/209862914-9bfbe779-1c14-4e13-8e03-5b8be9d9376f.mp4
+<video align="left" alt="akashdip mahapatra college life" width="50" src="https://user-images.githubusercontent.com/81384987/209862914-9bfbe779-1c14-4e13-8e03-5b8be9d9376f.mp4">    
+
