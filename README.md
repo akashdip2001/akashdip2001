@@ -44,14 +44,14 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 
-<a href="https://twitter.com/akashdipaot2001" target="blank"><img align="center" src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="akashdipaot2001" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/akashdip-mahapatra-330687204" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="akashdip-mahapatra-330687204" height="40" width="40" /></a>
-<a href="https://fb.com/drawing.hobby.37" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" alt="facebook" height="40" width="40" /></a>
-<a href="https://instagram.com/akashdip_2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="insta" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="akash aot" height="40" width="50" /></a>
+<a href="https://twitter.com/akashdipaot2001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952725-11bc27a9-cac1-4439-b129-62f51fe3fa72.png" alt="akashdipaot2001" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/akashdip-mahapatra-330687204" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952833-314ab313-7120-4755-b65c-b573098387b3.png" alt="akashdip-mahapatra-330687204" height="40" width="40" /></a>
+<a href="https://fb.com/drawing.hobby.37" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952901-f366a196-d5bb-4c39-901e-7fc276088b92.png" alt="facebook" height="40" width="40" /></a>
+<a href="https://instagram.com/akashdip_2001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952945-2d0baca9-a03a-4a23-b7ea-b8bea3e7bc7f.png" alt="insta" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952974-0163b04e-ccae-4be5-844a-075ef85c43d2.png" alt="akash aot" height="40" width="50" /></a>
 <a href="https://linktr.ee/AkashdipMahapatra" target="blank"><img align="center" src="https://d1fdloi71mui9q.cloudfront.net/8Ve5ek9uTReJwcW3kNI9_VuqJn6NiZ2bAQp7l" alt="linktree" height="40" width="40" /></a>
 <a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="center" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo" alt="akashdip2001" height="40" width="40" /></a>&nbsp;
-<a href="mailto: akashdipmahapatra2001@gmail.com" target="blank"><img align="center" height="40" width="40px" src="https://img.icons8.com/color/144/000000/gmail-new.png" /></a>
+<a href="mailto: akashdipmahapatra2001@gmail.com" target="blank"><img align="center" height="40" width="40px" src="https://user-images.githubusercontent.com/81384987/209952983-b1ade79d-a079-4181-b61a-0aad1573c87c.png" /></a>
 </p>
 
 <h3> Skills</h3>
