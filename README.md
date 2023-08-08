@@ -79,7 +79,9 @@
 <a href= https://www.docker.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/docker.png'> </a>
 <br>
 <br>
-<a href= https://youtu.be/ErIWwIEwdRA/> <img width ='150px' src ='https://akashdipmahapatra.netlify.app/wp-content/uploads/2022/06/AutocadCAD-300x101.png'> </a>&nbsp;
+<a href= https://youtu.be/ErIWwIEwdRA/> <img width ='130px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/f599bec6-9eef-45e1-8eec-c6d007b83411'> </a>&nbsp;
+<a href= https://youtu.be/ErIWwIEwdRA/> <img width ='100px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/a9be7860-d6cc-4821-8dfe-7c52c1ae61ac'> </a>&nbsp;
+<a href= https://youtu.be/ErIWwIEwdRA/> <img width ='170px' src ='https://akashdipmahapatra.netlify.app/wp-content/uploads/2022/06/AutocadCAD-300x101.png'> </a>&nbsp;
 <a href= 'https://youtube.com/playlist?list=PL_RecMEcs_p9ch5BZzi7zywnL7niWHM8g'/> <img width ='110px' src ='https://user-images.githubusercontent.com/81384987/203127620-bd1a708a-4b0f-49d7-a7c6-e1f51307549b.png'> </a>&nbsp;
 <a href= #/> <img width ='150px' src ='https://user-images.githubusercontent.com/81384987/203129870-842d0a8a-7805-4174-b53e-f5a89250a6cd.png'> </a>
 <br>
