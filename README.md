@@ -21,7 +21,7 @@
 
 <img align="right" alt="akashdip mahapatra" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
 <br>&nbsp;
-<img align="center" alt="Mechanical Engineering" width="100" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo"> 
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdip2001&label=Profile%20views&color=0e75b6&style=flat" alt="akashdip2001" /> </p>
 
@@ -88,7 +88,6 @@
 <br>
 
 
-[![Akashdip's's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashdip2001&theme=react-dark)](https://github.com/akashdip2001)
 <br>
 
 <div align = "center">
