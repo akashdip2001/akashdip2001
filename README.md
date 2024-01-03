@@ -98,11 +98,11 @@
 <br>
   
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashdip2001&show_icons=true&locale=en&layout=compact" alt="akashdip2001" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashdip2001&show_icons=true&locale=en&layout=compact&theme=transparent" alt="akashdip2001" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdip2001&" alt="akashdip2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdip2001&theme=transparent" alt="akashdip2001" /></p>
 <br>
 
 ---
