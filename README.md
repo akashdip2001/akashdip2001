@@ -17,15 +17,16 @@
 <h3 align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3>
 
 
-<img align="right" style="margin-bottom: 5px" alt="akashdip mahapatra" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
+<img align="right" alt="akashdip mahapatra" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
 <br>&nbsp;
  
-<br />
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ?sub_confirmation=1"><img style="margin-top: 10px" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdip2001&label=Profile%20views&color=0e75b6&style=flat" alt="akashdip2001" /> </p>
+
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/akashdipaot2001" target="blank"><img src="https://img.shields.io/twitter/follow/akashdipaot2001?logo=twitter&style=for-the-badge" alt="akashdipaot2001" /></a> </p>
 
