@@ -1,13 +1,12 @@
 <h1 align="center">Hello, 4-Dimensional Humans </h1>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/81384987/203163055-a0191d58-875a-4291-a072-265f25ba897b.svg" height="150">
+    <img src="img/top img.svg" height="150">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://akashdip2001.github.io/linktree/)
 
-![akash AOT](https://user-images.githubusercontent.com/81384987/202706422-56968ab6-c65f-48e4-86e9-2474311969ee.png)
-
+![Banner Image](https://user-images.githubusercontent.com/81384987/236854925-8284fc07-b28b-41eb-a00d-3b9a1b75cf43.png)
 
 <div align = 'center'>
  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&fontStyle=samakaran&text=Akashdip%20Mahapatra&height=150&fontSize=80&desc=Haldia,%20IN&descAlignY=75&descAlign=82.4"/></div>
@@ -23,6 +22,11 @@
 <br>&nbsp;
 
 <br>
+
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdip2001&label=Profile%20views&color=0e75b6&style=flat" alt="akashdip2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akashdipaot2001" target="blank"><img src="https://img.shields.io/twitter/follow/akashdipaot2001?logo=twitter&style=for-the-badge" alt="akashdipaot2001" /></a> </p>
@@ -33,7 +37,7 @@
 
 - 👨‍💻 All of my projects are available at [my **Linkedin**](https://www.linkedin.com/in/akashdip-mahapatra-330687204/)
 
-- 💬 **expert in Kali-linux, Love Drawings , extra knowledge - AutoCAD,FreeCAD,GIMP,Shotcut video editor**
+- 💬 **expert in Kali-linux, Love Drawings , extra knowledge - SolidWorks,AutoCAD,FreeCAD,GIMP,Shotcut video editor**
 
 - 📫 How to reach me **akashdipmahapatra2001@gmail.com**
 
@@ -50,7 +54,7 @@
 <a href="https://instagram.com/akashdip_2001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952945-2d0baca9-a03a-4a23-b7ea-b8bea3e7bc7f.png" alt="insta" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952974-0163b04e-ccae-4be5-844a-075ef85c43d2.png" alt="akash aot" height="40" width="50" /></a>
 <a href="https://linktr.ee/AkashdipMahapatra" target="blank"><img align="center" src="https://d1fdloi71mui9q.cloudfront.net/8Ve5ek9uTReJwcW3kNI9_VuqJn6NiZ2bAQp7l" alt="linktree" height="40" width="40" /></a>
-<a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="center" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo" alt="akashdip2001" height="40" width="40" /></a>&nbsp;
+<a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="center" src="img/logo.png" alt="akashdip2001" height="40" width="40" /></a>&nbsp;
 <a href="mailto: akashdipmahapatra2001@gmail.com" target="blank"><img align="center" height="40" width="40px" src="https://user-images.githubusercontent.com/81384987/209952983-b1ade79d-a079-4181-b61a-0aad1573c87c.png" /></a>
 </p>
 
