@@ -1,0 +1,24 @@
+
+            <svg width="854" height="150" viewBox="0 0 854 150" xmlns="http://www.w3.org/2000/svg">
+                <style>
+                        .text {
+						font-size: 80px;
+						font-weight: 700;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+					.desc {
+						font-size: 20px;
+						font-weight: 500;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+                        
+                     </style>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 150">
+                    
+                </svg>
+                
+     
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#e3b778;" stroke="#none" stroke-width="1" >Akashdip Mahapatra</text>
+                <text text-anchor="middle" alignment-baseline="middle" x="82.4%" y="75%" class="desc" style="fill:#e3b778;">Haldia, IN</text> 
+            </svg>
+        
