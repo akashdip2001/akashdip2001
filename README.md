@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **akashdipmahapatra2001@gmail.com**
 
-- 📄 resume [click](https://akashdip2001.github.io/CV-1/)
+- 📄 resume `B.Tech 1st Year` [click](https://akashdip2001.github.io/CV-1/)
 
 - ⚡ Fun fact **E=mc^2**
 
