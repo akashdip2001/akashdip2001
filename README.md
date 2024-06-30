@@ -108,7 +108,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdip2001&theme=transparent" alt="akashdip2001" /></p>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
+
 <img align="left" alt="akashdip mahapatra" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/203149442-c6ebb3af-d7c7-4b05-afd7-b3b4dd45a306.png">
 <br>&nbsp;
 <img align="right" alt="qr code" height="300" width="300" src="https://user-images.githubusercontent.com/81384987/192692360-f8d705b3-9924-4e8c-8c94-ada6739330e4.jpg">
