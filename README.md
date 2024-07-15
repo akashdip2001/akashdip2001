@@ -55,6 +55,9 @@
 ## but,also i know
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu)](https://skillicons.dev)
 
+## using IDE
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vim,vscode,visualstudio,pycharm,idea,atom,electron,androidstudio,arduino)](https://skillicons.dev)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## WebDev i know
@@ -63,7 +66,7 @@
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,react)](https://skillicons.dev) . . .
 
 #### Backend
-### [![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,php,nodejs,npm,nginx)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/nolan/64/api-settings.png'> </a> . . .
+### [![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,php,nodejs,npm,nginx,firebase,postman)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/nolan/64/api-settings.png'> </a> . . .
 
 #### DataBase
 ### [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/ios-filled/50/000000/sql.png'> </a> . . .
@@ -72,15 +75,17 @@
 | :---: | :---: |
 | [![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=github,githubactions)](https://skillicons.dev) |
 
+#### i use `CDN` to protect my `js` codes
+
 ### Deploy website
 [![My Skills](https://skillicons.dev/icons?i=netlify,github,githubactions,heroku,vercel)](https://skillicons.dev)
-
-#### i use `CDN` to protect my `js` codes
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Dev-Ops i know
 ### [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=gcp,aws,)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=linux,kali)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=kubernetes,kafka)](https://skillicons.dev)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <h3> Skills</h3>
 
