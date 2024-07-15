@@ -59,7 +59,7 @@
 
 | Front-end | BACKEND | DataBase |
 | :---: | :---: | :---: |
-| [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,nextjs,php,nodejs,npm,nginx)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,nextjs,php,nodejs,npm,nginx)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev) |
 
 <h3> Skills</h3>
 
