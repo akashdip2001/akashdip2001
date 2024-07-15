@@ -51,6 +51,10 @@
 <a href="mailto: akashdipmahapatra2001@gmail.com" target="blank"><img align="center" height="40" width="40px" src="https://user-images.githubusercontent.com/81384987/209952983-b1ade79d-a079-4181-b61a-0aad1573c87c.png" /></a>
 </p>
 
+# I am Kali user,  [![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
+## but,also I know
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu)](https://skillicons.dev)
+
 <h3> Skills</h3>
 
 <a target="blank" href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
