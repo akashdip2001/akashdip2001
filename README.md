@@ -46,7 +46,6 @@
 <a href="https://fb.com/drawing.hobby.37" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952901-f366a196-d5bb-4c39-901e-7fc276088b92.png" alt="facebook" height="40" width="40" /></a>
 <a href="https://instagram.com/akashdip_2001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952945-2d0baca9-a03a-4a23-b7ea-b8bea3e7bc7f.png" alt="insta" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952974-0163b04e-ccae-4be5-844a-075ef85c43d2.png" alt="akash aot" height="40" width="50" /></a>
-<a href="https://linktr.ee/AkashdipMahapatra" target="blank"><img align="center" src="https://d1fdloi71mui9q.cloudfront.net/8Ve5ek9uTReJwcW3kNI9_VuqJn6NiZ2bAQp7l" alt="linktree" height="40" width="40" /></a>
 <a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="center" src="img/logo.png" alt="akashdip2001" height="40" width="40" /></a>&nbsp;
 <a href="mailto: akashdipmahapatra2001@gmail.com" target="blank"><img align="center" height="40" width="40px" src="https://user-images.githubusercontent.com/81384987/209952983-b1ade79d-a079-4181-b61a-0aad1573c87c.png" /></a>
 </p>
