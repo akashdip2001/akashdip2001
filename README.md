@@ -97,7 +97,7 @@
   <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/4G%20LTE%20(1).jpg" width="23%" />
   <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l.jpg" width="23%" />
  <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l_3.jpg" width="23%" />
- <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l_6.jpg" width="23%" />
+ <img src="https://media.licdn.com/dms/image/D5622AQGAWf6O4mwcFA/feedshare-shrink_800/0/1719905395647?e=1723680000&v=beta&t=-WKcawyrG3z_BKsI7E-eP8EZp8X9bGUdbZgE69EOZB8" width="23%" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
