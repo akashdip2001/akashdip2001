@@ -8,7 +8,9 @@
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Drawing,+Coding,+Hacking;Mechanical+Engineer&center=true&width=380&height=45"/>
 </p> 
-<h3 align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3>
+<h3 align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3> 
+
+[Video](https://youtu.be/ysBF9EfvWkk?t=428)
 
 
 <img align="right" alt="akashdip mahapatra" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
@@ -210,20 +212,23 @@ now i am learning Machine Learning using python
 
 # National Award 2012
 
-
-
-
 [Video](https://youtu.be/ysBF9EfvWkk?t=428) 
  <br>
  <br>
 [**my web-site**](https://akashdip2001.github.io/linktree/)
 
-    
-    
-<video align="left" alt="akashdip mahapatra college life" width="50" src="https://user-images.githubusercontent.com/81384987/209862914-9bfbe779-1c14-4e13-8e03-5b8be9d9376f.mp4"> 
+---
 
- <p float="left">
-  <img src="https://media.licdn.com/dms/image/D5622AQGOks7yOpVGaQ/feedshare-shrink_800/0/1715884935857?e=1723680000&v=beta&t=beeWEp1j8wi1Bkkzzus8-L7ARhz00Y07nPNqc9slH04" width="35%" />
-  <img src="https://media.licdn.com/dms/image/D5622AQHvxuKE1AuA-w/feedshare-shrink_800/0/1715884936404?e=1723680000&v=beta&t=GvtBwKGMHjKVKCWwzKUGL_HocoPHbOctuTUyuDZ0r5A" width="62%" />
+<br>
+<br>
+ 
+<p float="left">
+  <img src="https://media.licdn.com/dms/image/D5622AQGOks7yOpVGaQ/feedshare-shrink_800/0/1715884935857?e=1723680000&v=beta&t=beeWEp1j8wi1Bkkzzus8-L7ARhz00Y07nPNqc9slH04" width="29%" />
+  <img src="https://media.licdn.com/dms/image/D5622AQHvxuKE1AuA-w/feedshare-shrink_800/0/1715884936404?e=1723680000&v=beta&t=GvtBwKGMHjKVKCWwzKUGL_HocoPHbOctuTUyuDZ0r5A" width="67%" />
+
+<!-- <video width="15%" controls>
+  <source src="https://youtu.be/ysBF9EfvWkk?t=428" type="video/mp4">
+  Your browser does not support the video tag.
+</video> -->
 </p>
 
