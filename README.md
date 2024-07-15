@@ -94,10 +94,10 @@
   <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sd.jpg" width="35%" />
 </p>
 <p float="left">
-  <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/4G%20LTE%20(1).jpg" width="23%" />
-  <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l.jpg" width="23%" />
- <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l_3.jpg" width="23%" />
- <img src="https://media.licdn.com/dms/image/D5622AQGAWf6O4mwcFA/feedshare-shrink_800/0/1719905395647?e=1723680000&v=beta&t=-WKcawyrG3z_BKsI7E-eP8EZp8X9bGUdbZgE69EOZB8" width="23%" />
+  <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/4G%20LTE%20(1).jpg" width="20%" />
+  <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l.jpg" width="20%" />
+ <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l_3.jpg" width="20%" />
+ <img src="https://media.licdn.com/dms/image/D5622AQHWZgzEJ4LaQA/feedshare-shrink_800/0/1715885882452?e=1723680000&v=beta&t=B7MoIMssE8qfGnvE2_Ypg4L9RjN5KK2IrlQF00LHeho" width="26%" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -126,6 +126,9 @@
 <a href= https://www.docker.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/docker.png'> </a>
 <br> --->
 <br>
+<br>
+<br>
+
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='130px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/f599bec6-9eef-45e1-8eec-c6d007b83411'> </a>&nbsp;
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='100px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/a9be7860-d6cc-4821-8dfe-7c52c1ae61ac'> </a>&nbsp;
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='170px' src ='https://akashdipmahapatra.netlify.app/wp-content/uploads/2022/06/AutocadCAD-300x101.png'> </a>&nbsp;
@@ -133,6 +136,15 @@
 <a href= #/> <img width ='150px' src ='https://user-images.githubusercontent.com/81384987/203129870-842d0a8a-7805-4174-b53e-f5a89250a6cd.png'> </a>
 <br>
 <br>
+
+<p float="left">
+  <img src="https://media.licdn.com/dms/image/D5622AQEZKm_66Eb5JQ/feedshare-shrink_800/0/1716448531049?e=1723680000&v=beta&t=FFDAal-v6ccrR9u7v1n8kEi6RkzepIK8aKLte00S1JE" width="49%" />
+  <img src="https://media.licdn.com/dms/image/D5622AQFKbHE73XpH2g/feedshare-shrink_800/0/1715888626070?e=1723680000&v=beta&t=7UwV9hY7vAnsb2NBuEbgtVH8aSROCdXFm_EBDsW961E" width="49%" />
+</p>
+<p float="left">
+  <img src="https://media.licdn.com/dms/image/D5622AQEe6fOfswi0EQ/feedshare-shrink_800/0/1715877037566?e=1723680000&v=beta&t=1eYjMofrdcMYSY1mbqSoojjj4SG8CLIFKhTKtK_N1-U" width="49%" />
+  <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sd.jpg" width="49%" />
+</p>
 
 
 <br>
