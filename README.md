@@ -93,7 +93,7 @@
   <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/youtube_1.jpg" width="62%" />
   <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sd.jpg" width="35%" />
 </p>
-<p float="left">
+<p float="middle">
   <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/4G%20LTE%20(1).jpg" width="20%" />
   <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l.jpg" width="20%" />
  <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l_3.jpg" width="20%" />
@@ -189,5 +189,10 @@
 
     
     
-<video align="left" alt="akashdip mahapatra college life" width="50" src="https://user-images.githubusercontent.com/81384987/209862914-9bfbe779-1c14-4e13-8e03-5b8be9d9376f.mp4">    
+<video align="left" alt="akashdip mahapatra college life" width="50" src="https://user-images.githubusercontent.com/81384987/209862914-9bfbe779-1c14-4e13-8e03-5b8be9d9376f.mp4"> 
+
+ <p float="left">
+  <img src="https://media.licdn.com/dms/image/D5622AQGOks7yOpVGaQ/feedshare-shrink_800/0/1715884935857?e=1723680000&v=beta&t=beeWEp1j8wi1Bkkzzus8-L7ARhz00Y07nPNqc9slH04" width="35%" />
+  <img src="https://media.licdn.com/dms/image/D5622AQHvxuKE1AuA-w/feedshare-shrink_800/0/1715884936404?e=1723680000&v=beta&t=GvtBwKGMHjKVKCWwzKUGL_HocoPHbOctuTUyuDZ0r5A" width="62%" />
+</p>
 
