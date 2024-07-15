@@ -63,7 +63,7 @@
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,react)](https://skillicons.dev) . . .
 
 #### Backend
-### [![My Skills](https://skillicons.dev/icons?i=js,nextjs,php,nodejs,npm,nginx)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/nolan/64/api-settings.png'> </a> . . .
+### [![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,php,nodejs,npm,nginx)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/nolan/64/api-settings.png'> </a> . . .
 
 #### DataBase
 ### [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/ios-filled/50/000000/sql.png'> </a> . . .
@@ -71,6 +71,9 @@
 | CDN i know | CDN i use |
 | :---: | :---: |
 | [![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=github,githubactions)](https://skillicons.dev) |
+
+### Deploy website
+[![My Skills](https://skillicons.dev/icons?i=netlify,github,githubactions,heroku,vercel)](https://skillicons.dev)
 
 #### i use `CDN` to protect my `js` codes
 
