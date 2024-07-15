@@ -68,7 +68,14 @@
 #### DataBase
 ### [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/ios-filled/50/000000/sql.png'> </a> . . .
 
+| CDN i know | CDN i use |
+| :---: | :---: |
+| [![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=github,githubactions)](https://skillicons.dev) |
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Dev-Ops i know
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,gcp,aws,)](https://skillicons.dev)
 
 <!-- <h3> Skills</h3>
 
