@@ -139,6 +139,9 @@
 <br>
 <br>
 
+## my Machine Design works,
+#### i am a Mechanical Engineering Student (2025), i also love Drawing & design
+
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='130px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/f599bec6-9eef-45e1-8eec-c6d007b83411'> </a>&nbsp;
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='100px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/a9be7860-d6cc-4821-8dfe-7c52c1ae61ac'> </a>&nbsp;
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='170px' src ='https://akashdipmahapatra.netlify.app/wp-content/uploads/2022/06/AutocadCAD-300x101.png'> </a>&nbsp;
@@ -146,6 +149,10 @@
 <a href= #/> <img width ='150px' src ='https://user-images.githubusercontent.com/81384987/203129870-842d0a8a-7805-4174-b53e-f5a89250a6cd.png'> </a>
 <br>
 <br>
+
+| AutoCAD 2D | AutoCAD 3D | SolidWorks |
+| :---: | :---: | :---: |
+| [playList likn](https://youtube.com/playlist?list=PL_RecMEcs_p9D9Mw3hr-uLOXioiFdPDGd&si=AOfL6sZVMCxzmtrT) | [all videos](https://youtube.com/playlist?list=PL_RecMEcs_p9NEuljRr7hNsFiPASnJYQt&si=UPFIKc_Rp557CEnz) | [projects](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ&si=n0Y5dFLoPopeffCx) |
 
 <p float="left">
   <img src="https://media.licdn.com/dms/image/D5622AQEZKm_66Eb5JQ/feedshare-shrink_800/0/1716448531049?e=1723680000&v=beta&t=FFDAal-v6ccrR9u7v1n8kEi6RkzepIK8aKLte00S1JE" width="49%" />
