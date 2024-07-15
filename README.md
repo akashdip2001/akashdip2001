@@ -82,6 +82,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## Create an Android app, in Google [Play-Store](https://play.google.com/store/apps/details?id=com.akashdipmahapatra.freecad&pcampaignid=web_share) 🔗
+#### using_ [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,xml,js,html,php,mysql)](https://skillicons.dev)
+<p float="left">
+  <img src="https://media.licdn.com/dms/image/D5622AQEOCSKToykkzQ/feedshare-shrink_800/0/1715259127569?e=1723680000&v=beta&t=YclJzy3p5MCS0gvdjosNVu6YE_YRrmFAl-zZLlWeVc4" width="51%" />
+ <img src="https://media.licdn.com/dms/image/D5622AQGxVDMmCmjTnQ/feedshare-shrink_800/0/1715929076571?e=1723680000&v=beta&t=GOawHofeaYa0bFjT39U1El0BeMH80akurFrycvuArsA" width="15%" />
+ <img src="https://media.licdn.com/dms/image/D5622AQHSy0JRzDV7YA/feedshare-shrink_800/0/1715929079496?e=1723680000&v=beta&t=5QdNKO8YtA8Rm7xPPhi06VMilg2R7_y3P-CWWgOq9t0" width="15%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Dev-Ops i know
 ### [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=gcp,aws)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=kubernetes,kafka)](https://skillicons.dev)
 
