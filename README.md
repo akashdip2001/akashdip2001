@@ -55,11 +55,20 @@
 ## but,also i know
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu)](https://skillicons.dev)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## WebDev i know
 
-| Front-end | BACKEND | DataBase |
-| :---: | :---: | :---: |
-| [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,nextjs,php,nodejs,npm,nginx)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev) |
+#### Front-end
+### [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,react)](https://skillicons.dev) . . .
+
+#### Backend
+### [![My Skills](https://skillicons.dev/icons?i=js,nextjs,php,nodejs,npm,nginx)](https://skillicons.dev) . . .
+
+#### DataBase
+### [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev) . . .
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3> Skills</h3>
 
