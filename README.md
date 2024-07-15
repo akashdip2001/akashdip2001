@@ -51,9 +51,15 @@
 <a href="mailto: akashdipmahapatra2001@gmail.com" target="blank"><img align="center" height="40" width="40px" src="https://user-images.githubusercontent.com/81384987/209952983-b1ade79d-a079-4181-b61a-0aad1573c87c.png" /></a>
 </p>
 
-# I am Kali user,  [![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
-## but,also I know
+# [![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev) I am Kali user,
+## but,also i know
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu)](https://skillicons.dev)
+
+## WebDev i know
+
+| Front-end | BACKEND |
+| :---: | :---: |
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu)](https://skillicons.dev) |
 
 <h3> Skills</h3>
 
