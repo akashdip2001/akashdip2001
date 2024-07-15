@@ -77,7 +77,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Dev-Ops i know
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,gcp,aws,)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=gcp,aws,)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=kubernetes,kafka)](https://skillicons.dev)
 
 <!-- <h3> Skills</h3>
 
