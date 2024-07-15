@@ -24,11 +24,11 @@
 
 <p align="left"> <a href="https://twitter.com/akashdipaot2001" target="blank"><img src="https://img.shields.io/twitter/follow/akashdipaot2001?logo=twitter&style=for-the-badge" alt="akashdipaot2001" /></a> </p>
 
-- 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
+- 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/website-2/)
 
-- 🌱 I’m currently learning **Hacking**
+- 🌱 I’m currently learning **H@cking**, **NETWORKING**, **iOT**, **Salesforce** [account-link](https://www.salesforce.com/trailblazer/akashdipmahapatra)
 
-- 👨‍💻 All of my projects are available at [my **Linkedin**](https://www.linkedin.com/in/akashdip-mahapatra-330687204/)
+- 👨‍💻 All of my projects are available at [my **Linkedin**](https://www.linkedin.com/in/akashdip2001/)
 
 - 💬 **expert in Kali-linux, Love Drawings , extra knowledge - SolidWorks,AutoCAD,FreeCAD,GIMP,Shotcut video editor**
 
