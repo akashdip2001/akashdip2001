@@ -63,14 +63,14 @@
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,react)](https://skillicons.dev) . . .
 
 #### Backend
-### [![My Skills](https://skillicons.dev/icons?i=js,nextjs,php,nodejs,npm,nginx)](https://skillicons.dev) . . .
+### [![My Skills](https://skillicons.dev/icons?i=js,nextjs,php,nodejs,npm,nginx)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/nolan/64/api-settings.png'> </a> . . .
 
 #### DataBase
-### [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev) . . .
+### [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/ios-filled/50/000000/sql.png'> </a> . . .
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3> Skills</h3>
+<!-- <h3> Skills</h3>
 
 <a target="blank" href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
 <a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/python--v1.png'> </a>
@@ -93,7 +93,7 @@
 <a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
 <a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
 <a href= https://www.docker.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/docker.png'> </a>
-<br>
+<br> --->
 <br>
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='130px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/f599bec6-9eef-45e1-8eec-c6d007b83411'> </a>&nbsp;
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='100px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/a9be7860-d6cc-4821-8dfe-7c52c1ae61ac'> </a>&nbsp;
