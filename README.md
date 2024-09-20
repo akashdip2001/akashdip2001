@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://akashdip2001.github.io/linktree/)
 
+<img align="left" alt="logo" width="300" src="img/about-nav-image.png"> 
+<img align="center" alt="logo" width="300" src="img/about-nav-image_03.png">  
+
 <div align = 'center'>
  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&fontStyle=samakaran&text=Akashdip%20Mahapatra&height=150&fontSize=80&desc=Haldia,%20IN&descAlignY=75&descAlign=82.4"/></div>
  
