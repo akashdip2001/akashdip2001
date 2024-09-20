@@ -84,6 +84,8 @@
 ### Deploy website
 [![My Skills](https://skillicons.dev/icons?i=netlify,github,githubactions,heroku,vercel)](https://skillicons.dev)
 
+<img align="right" alt="logo" width="300" src="img/about-nav-image_022.png">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Create an Android app, in Google [Play-Store](https://play.google.com/store/apps/details?id=com.akashdipmahapatra.freecad&pcampaignid=web_share) 🔗
@@ -189,9 +191,10 @@ now i am learning Machine Learning using python
 <div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=akashdip2001&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
 
 <div align="center">
-  
+<img align="center" alt="logo" width="300" src="img/about-nav-image_06.png">  
 <br>
-  
+
+ <img align="center" width="300" alt="logo" width="300" src="img/about-nav-image_05.png">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashdip2001&show_icons=true&locale=en&layout=compact&theme=transparent" alt="akashdip2001" /></p>
 
