@@ -84,6 +84,7 @@
 ### Deploy website
 [![My Skills](https://skillicons.dev/icons?i=netlify,github,githubactions,heroku,vercel)](https://skillicons.dev)
 
+<img align="left" alt="logo" width="300" src="img/about-nav-image_07.png">
 <img align="right" alt="logo" width="300" src="img/about-nav-image_022.png">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
