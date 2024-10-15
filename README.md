@@ -13,7 +13,7 @@
 </p> 
 <h3 align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3> 
 
-[Video](https://youtu.be/ysBF9EfvWkk?t=428)
+[Video](https://youtu.be/ysBF9EfvWkk?t=428) <img width="55" src="img/mona-loading-dark-7701a7b97370.gif">
 
 
 <img align="right" alt="akashdip mahapatra" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
