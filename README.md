@@ -223,7 +223,8 @@ now i am learning Machine Learning using python
 </details>
 
 ---
-
+<details>	
+ <summary><b>National Award 2012 ☀️</b></summary><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
@@ -258,5 +259,6 @@ now i am learning Machine Learning using python
   Your browser does not support the video tag.
 </video> -->
 </p>
+</details>
 
-<h4 align="right">last update: 16/07/2024 2:50 AM</h4>
+<h4 align="right">last update: 12/08/2024 00:35 AM</h4>
