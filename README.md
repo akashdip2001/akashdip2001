@@ -6,7 +6,7 @@
 <div style='display:flex; align-items:center; gap: 30px;' align='center'>
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="150px" height="150px" />
 <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="150px" height="150px" /></a>
-<a href="https://gssoc.girlscript.tech/leaderboard"><img src="img/Badge/Postman White badge.png" width="150px" height="150px" />
+<a href="https://badgr.com/public/assertions/S9quac7wTv6gBHZcz5lHzg?identity__email=akashdip.mahapatra.21@aot.edu.in"><img src="img/Badge/Postman White badge.png" width="150px" height="150px" />
 </div>
 <!-- <img align="right" alt="logo" width="200" src="img/about-nav-image_03.png">   -->
 
@@ -213,7 +213,7 @@ now i am learning Machine Learning using python
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="100px" height="100px" />
 <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="100px" height="100px" /></a>
-<a href="https://gssoc.girlscript.tech/leaderboard"><img src="img/Badge/Postman White badge.png" width="100px" height="100px" />
+<a href="https://badgr.com/public/assertions/S9quac7wTv6gBHZcz5lHzg?identity__email=akashdip.mahapatra.21@aot.edu.in"><img src="img/Badge/Postman White badge.png" width="100px" height="100px" />
   <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
