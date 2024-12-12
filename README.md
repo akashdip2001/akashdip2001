@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://akashdip2001.github.io/linktree/)
 
+
 [<img align="left" alt="logo" width="150" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001) 
 <div style='display:flex; align-items:center; gap: 30px;' align='center'>
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="150px" height="150px" /></a>
@@ -17,6 +18,7 @@
       <img src="img/Badge/aws-educate-getting-started-with-security.png" width="150px" height="150px" />
     </a>
   </div>
+ [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
 </details>
 
 </div>
