@@ -2,11 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://akashdip2001.github.io/linktree/)
 
-[<img align="left" alt="logo" width="250" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001)
+[<img align="left" alt="logo" width="150" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001)
 <div style='display:flex; align-items:center; gap: 30px;' align='center'>
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="150px" height="150px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="150px" height="150px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_postman-api-certification-activity-7264947968200368128-MHWG"><img src="img/Badge/Postman White badge.png" width="150px" height="150px" /></a>
+<a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-educate-introduction-to-cloud-101.png" width="150px" height="150px" /></a>
 </div>
 <!-- <img align="right" alt="logo" width="200" src="img/about-nav-image_03.png">   -->
 
