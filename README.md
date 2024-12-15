@@ -16,6 +16,7 @@
   <div style="display: flex; align-items: center; gap: 10px;" align="center">
     <a href="https://www.credly.com/badges/02600532-734a-44c4-954a-bc03105fa653/public_url"><img src="img/Badge/aws-educate-getting-started-with-storage.png" width="150px" height="150px" /></a>
     <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="150px" height="150px" /></a>
+    <a href="http://verify.skilljar.com/c/ftvm76ers6tu"><img src="img/Badge/Introduction to FinOps.png" width="150px" height="150px" /></a>
   </div>
  [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
 </details>
