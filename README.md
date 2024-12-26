@@ -18,7 +18,7 @@
     <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="150px" height="150px" /></a>
     <a href="http://verify.skilljar.com/c/ftvm76ers6tu"><img src="img/Badge/Introduction to FinOps.png" width="150px" height="150px" /></a>
     <a href="http://verify.skilljar.com/c/zbwf7vxha9yj"><img src="img/Badge/Introduction to FOCUS.png" width="150px" height="150px" /></a>
-    <a href="https://www.credential.net/61d3ec97-a49b-4e97-b7b4-2253858cc18a#acc.V0Juht8T"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="150px" height="150px" /></a>
+    <a href="https://www.linkedin.com/posts/akashdip2001_cloudcomputing-ai-googlecloud-activity-7278061329901363200-ZFyq/"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="150px" height="150px" /></a>
   </div>
  [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
 </details>
