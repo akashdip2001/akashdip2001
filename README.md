@@ -18,6 +18,7 @@
     <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="150px" height="150px" /></a>
     <a href="http://verify.skilljar.com/c/ftvm76ers6tu"><img src="img/Badge/Introduction to FinOps.png" width="150px" height="150px" /></a>
     <a href="http://verify.skilljar.com/c/zbwf7vxha9yj"><img src="img/Badge/Introduction to FOCUS.png" width="150px" height="150px" /></a>
+    <a href="https://www.credential.net/61d3ec97-a49b-4e97-b7b4-2253858cc18a#acc.V0Juht8T"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="150px" height="150px" /></a>
   </div>
  [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
 </details>
@@ -232,6 +233,7 @@ now i am learning Machine Learning using python
 <a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-educate-introduction-to-cloud-101.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/02600532-734a-44c4-954a-bc03105fa653/public_url"><img src="img/Badge/aws-educate-getting-started-with-storage.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="100px" height="100px" /></a>
+<a href="https://www.credential.net/61d3ec97-a49b-4e97-b7b4-2253858cc18a#acc.V0Juht8T"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="100px" height="100px" /></a>
   <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
