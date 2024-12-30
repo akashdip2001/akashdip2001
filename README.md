@@ -17,6 +17,7 @@
     <a href="https://www.credly.com/badges/02600532-734a-44c4-954a-bc03105fa653/public_url"><img src="img/Badge/aws-educate-getting-started-with-storage.png" width="150px" height="150px" /></a>
     <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="150px" height="150px" /></a>
     <a href="https://www.linkedin.com/posts/akashdip2001_cloudcomputing-ai-googlecloud-activity-7278061329901363200-ZFyq/"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="150px" height="150px" /></a>
+    <a href="https://ti-user-certificates.s3.amazonaws.com/72109ec1-52dd-4663-9df4-754a8a1d0bff/b3a9ea05-0814-405b-976d-3d150fd56bad-akashdip-mahapatra-f1f2d132-53f4-47fc-b401-7ec7b0e76a62-certificate.pdf"><img src="img/Badge/GitLab 101.png" width="115px" height="115px" /></a>
     <a href="http://verify.skilljar.com/c/ftvm76ers6tu"><img src="img/Badge/Introduction to FinOps.png" width="150px" height="150px" /></a>
     <a href="http://verify.skilljar.com/c/zbwf7vxha9yj"><img src="img/Badge/Introduction to FOCUS.png" width="150px" height="150px" /></a>
     <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="img/Badge/finops-certified-engineer.png" width="150px" height="150px" /></a>
