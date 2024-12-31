@@ -22,6 +22,7 @@
     <a href="http://verify.skilljar.com/c/zbwf7vxha9yj"><img src="img/Badge/Introduction to FOCUS.png" width="150px" height="150px" /></a> -->
     <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="img/Badge/finops-certified-engineer.png" width="150px" height="150px" /></a>
   </div>
+</br>
  [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
 </details>
 
