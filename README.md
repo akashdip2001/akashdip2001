@@ -239,6 +239,8 @@ now i am learning Machine Learning using python
 <a href="https://www.credly.com/badges/02600532-734a-44c4-954a-bc03105fa653/public_url"><img src="img/Badge/aws-educate-getting-started-with-storage.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_cloudcomputing-ai-googlecloud-activity-7278061329901363200-ZFyq/"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="100px" height="100px" /></a>
+<a href="https://www.linkedin.com/posts/the-linux-foundation-training-%26-certification_iac-opentofu-devops-activity-7280661407161860096-SSSJ"><img src="img/Badge/lfel1009-getting-started-with-opentofu.png" width="100px" height="100px" /></a>
+<a href="https://www.credly.com/badges/e0536338-418a-44c7-bae8-e4d47398f1e5/public_url"><img src="img/Badge/lfel1007-automating-supply-chain-security-sboms-and.png" width="100px" height="100px" /></a>
 <a href="http://verify.skilljar.com/c/ftvm76ers6tu"><img src="img/Badge/Introduction to FinOps.png" width="100px" height="100px" /></a>
 <a href="http://verify.skilljar.com/c/zbwf7vxha9yj"><img src="img/Badge/Introduction to FOCUS.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="img/Badge/finops-certified-engineer.png" width="100px" height="100px" /></a>
