@@ -233,6 +233,7 @@ now i am learning Machine Learning using python
 <details>	
  <summary><b>Badges 2024 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://www.credly.com/badges/aaf069f2-c02e-4313-8408-94a80aa5a818/public_url"><img src="img/Badge/lfs101-introduction-to-linux.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="100px" height="100px" /></a>
 <a href="https://badgr.com/public/assertions/S9quac7wTv6gBHZcz5lHzg?identity__email=akashdip.mahapatra.21@aot.edu.in"><img src="img/Badge/Postman White badge.png" width="100px" height="100px" /></a>
