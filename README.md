@@ -18,6 +18,7 @@
     <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="150px" height="150px" /></a>
     <a href="https://www.linkedin.com/posts/akashdip2001_cloudcomputing-ai-googlecloud-activity-7278061329901363200-ZFyq/"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="150px" height="150px" /></a>
     <a href="https://ti-user-certificates.s3.amazonaws.com/72109ec1-52dd-4663-9df4-754a8a1d0bff/b3a9ea05-0814-405b-976d-3d150fd56bad-akashdip-mahapatra-f1f2d132-53f4-47fc-b401-7ec7b0e76a62-certificate.pdf"><img src="img/Badge/GitLab 101.png" width="140px" height="140px" /></a>
+   <a href="https://www.credly.com/badges/aaf069f2-c02e-4313-8408-94a80aa5a818/public_url"><img src="img/Badge/lfs101-introduction-to-linux.png" width="150px" height="150px" /></a>
    <a href="https://www.linkedin.com/posts/the-linux-foundation-training-%26-certification_iac-opentofu-devops-activity-7280661407161860096-SSSJ"><img src="img/Badge/lfel1009-getting-started-with-opentofu.png" width="150px" height="150px" /></a>
    <a href="https://www.credly.com/badges/e0536338-418a-44c7-bae8-e4d47398f1e5/public_url"><img src="img/Badge/lfel1007-automating-supply-chain-security-sboms-and.png" width="150px" height="150px" /></a>
 <!--     <a href="http://verify.skilljar.com/c/ftvm76ers6tu"><img src="img/Badge/Introduction to FinOps.png" width="150px" height="150px" /></a>
