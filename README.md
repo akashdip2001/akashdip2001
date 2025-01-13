@@ -11,8 +11,8 @@
 <a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-educate-introduction-to-cloud-101.png" width="150px" height="150px" /></a>
 </br>
  
-<!-- <details>
-  <summary style="opacity: 0.85;"><b>more</b></summary><br>  -->
+<details>
+  <summary style="opacity: 0.85;"><b>more Badges 🥇</b></summary><br>
   <div style="display: flex; align-items: center; gap: 10px;" align="center">
     <a href="https://www.credly.com/badges/02600532-734a-44c4-954a-bc03105fa653/public_url"><img src="img/Badge/aws-educate-getting-started-with-storage.png" width="150px" height="150px" /></a>
     <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="150px" height="150px" /></a>
@@ -27,7 +27,7 @@
   </div>
 </br>
  [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
-<!--</details>-->
+</details>
 
 </div>
 <!-- <img align="right" alt="logo" width="200" src="img/about-nav-image_03.png">   -->
