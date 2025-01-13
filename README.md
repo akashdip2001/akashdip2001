@@ -39,8 +39,9 @@
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Drawing,+Coding,+Hacking;Mechanical+Engineer&center=true&width=380&height=45"/>
 </p> 
-<h3 align="center">[National award from Dilhi](https://youtu.be/ysBF9EfvWkk?t=428), award taken from Indian precedent [Pronob Mukherjee](https://en.wikipedia.org/wiki/Pranab_Mukherjee) 2012 , on Drawing</h3> 
+<h3 src="https://youtu.be/ysBF9EfvWkk?t=428" align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3> 
 
+</br>
 
 <img align="right" alt="akashdip mahapatra" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
 <br>&nbsp;
