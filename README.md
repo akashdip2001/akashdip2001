@@ -61,10 +61,14 @@
 - 👨‍💻 All of my projects & `achievements` are available at [**Linkedin**](https://www.linkedin.com/in/akashdip2001/)
 - 💬 **expert in**
 
-  | Technical | Kali-linux | AWS | Git & Github | CICD | WebDev & React |
-  | --- | --- | --- | --- | --- | --- |
-  | mechanical | SolidWorks | AutoCAD | CATIA | CREO | FreeCAD |
+  | Technical | Kali-linux | AWS | Git & Github | [more](https://www.credly.com/users/akashdip2001) |
+  | --- | --- | --- | --- | --- |
+  | mechanical | SolidWorks | AutoCAD | [more](https://youtube.com/playlist?list=PL_RecMEcs_p__J3GSHkKfLjC08q0NmWtR&si=jdBEFscDwJqhALO5) |
 ---
+
+<details>
+ <summary style="opacity: 0.85;"><b>Connect details</b></summary><br>
+ 
 - 📫 How to reach me **mail.me.akashdip2001@gmail.com**
 
 - 📄 resume `B.Tech 3rd Year` [click](https://drive.google.com/file/d/1M8z8Xg009zNDy1B7-HEkL96HpXB02QkN/view?usp=drivesdk)
@@ -75,13 +79,14 @@
 <p align="left">
 
 <a href="https://twitter.com/akashdipaot2001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952725-11bc27a9-cac1-4439-b129-62f51fe3fa72.png" alt="akashdipaot2001" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/akashdip-mahapatra-330687204" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952833-314ab313-7120-4755-b65c-b573098387b3.png" alt="akashdip-mahapatra-330687204" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/akashdip2001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952833-314ab313-7120-4755-b65c-b573098387b3.png" alt="akashdip-mahapatra-330687204" height="40" width="40" /></a>
 <a href="https://fb.com/drawing.hobby.37" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952901-f366a196-d5bb-4c39-901e-7fc276088b92.png" alt="facebook" height="40" width="40" /></a>
-<a href="https://instagram.com/akashdip_2001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952945-2d0baca9-a03a-4a23-b7ea-b8bea3e7bc7f.png" alt="insta" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952974-0163b04e-ccae-4be5-844a-075ef85c43d2.png" alt="akash aot" height="40" width="50" /></a>
+<a href="https://www.instagram.com/akashdip_mahapatra/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952945-2d0baca9-a03a-4a23-b7ea-b8bea3e7bc7f.png" alt="insta" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952974-0163b04e-ccae-4be5-844a-075ef85c43d2.png" alt="akash aot" height="40" width="50" /></a>
 <a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="center" src="img/logo.png" alt="akashdip2001" height="40" width="40" /></a>&nbsp;
-<a href="mailto: akashdipmahapatra2001@gmail.com" target="blank"><img align="center" height="40" width="40px" src="https://user-images.githubusercontent.com/81384987/209952983-b1ade79d-a079-4181-b61a-0aad1573c87c.png" /></a>
+<a href="mailto: mail.me.akashdip2001@gmail.com" target="blank"><img align="center" height="40" width="40px" src="https://user-images.githubusercontent.com/81384987/209952983-b1ade79d-a079-4181-b61a-0aad1573c87c.png" /></a>
 </p>
+</details>
 
 # [![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev) I am Kali user,
 ## but,also i know
