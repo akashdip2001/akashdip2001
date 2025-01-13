@@ -98,7 +98,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- final Year Project 2025 -->
-<img align="right" alt="akashdip mahapatra" width="40%" src="img/finalYearProject2025.png"> 
+<img align="right" alt="akashdip mahapatra" width="35%" src="img/finalYearProject2025.png"> 
 
 ## WebDev i know
 
