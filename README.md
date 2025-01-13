@@ -203,20 +203,9 @@ now i am learning Machine Learning using python
 | [playList likn](https://youtube.com/playlist?list=PL_RecMEcs_p9D9Mw3hr-uLOXioiFdPDGd&si=AOfL6sZVMCxzmtrT) | [all videos](https://youtube.com/playlist?list=PL_RecMEcs_p9NEuljRr7hNsFiPASnJYQt&si=UPFIKc_Rp557CEnz) | [projects](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ&si=n0Y5dFLoPopeffCx) |
 
 <p float="left">
-  <img src="https://media.licdn.com/dms/image/D5622AQEZKm_66Eb5JQ/feedshare-shrink_800/0/1716448531049?e=1723680000&v=beta&t=FFDAal-v6ccrR9u7v1n8kEi6RkzepIK8aKLte00S1JE" width="49%" />
-  <img src="https://media.licdn.com/dms/image/D5622AQFKbHE73XpH2g/feedshare-shrink_800/0/1715888626070?e=1723680000&v=beta&t=7UwV9hY7vAnsb2NBuEbgtVH8aSROCdXFm_EBDsW961E" width="49%" />
-</p>
-<p float="left">
-  <img src="https://media.licdn.com/dms/image/D5622AQEe6fOfswi0EQ/feedshare-shrink_800/0/1715877037566?e=1723680000&v=beta&t=1eYjMofrdcMYSY1mbqSoojjj4SG8CLIFKhTKtK_N1-U" width="36%" />
-  <img src="https://media.licdn.com/dms/image/D5622AQFJ-u2BdGcuiw/feedshare-shrink_2048_1536/0/1714514089834?e=1723680000&v=beta&t=XnToN_jiU-tmJfi90U399g5E7bSCb5y25CxMz1i9qA0" width="63%" />
-</p>
-<p float="left">
-  <img src="https://media.licdn.com/dms/image/D5622AQH9UCyjmuUNPg/feedshare-shrink_800/0/1714514085441?e=1723680000&v=beta&t=okwKidrILy5bQpfvESen7FYdFyIub8xf1r32YrVjrrw" width="15.9%" />
-  <img src="https://media.licdn.com/dms/image/D5622AQEhs5M_TZpEHg/feedshare-shrink_800/0/1714514087782?e=1723680000&v=beta&t=f8trSMDDtzRwYEvMnHjC6JmgFb5k8IJjOS_A8nrcEBk" width="15.9%" />
- <img src="https://media.licdn.com/dms/image/D5622AQHuuqV2a8DkIQ/feedshare-shrink_2048_1536/0/1714514085785?e=1723680000&v=beta&t=2oyTXKORVsX232eZ5uz24gUX_KiOnQ5ldrCCZ0-As64" width="15.9%" />
- <img src="https://media.licdn.com/dms/image/D5622AQGN9aDxKKetzw/feedshare-shrink_2048_1536/0/1714514088769?e=1723680000&v=beta&t=4jUw8WzJbB-FhKEbH60ww9IudCblRi_U6AHdwl1zHic" width="15.9%" />
- <img src="https://media.licdn.com/dms/image/D5622AQHDYAqBpD0dFg/feedshare-shrink_2048_1536/0/1714514087209?e=1723680000&v=beta&t=m9JpRY1pMwArk48MsFbk_bQ0Jr-Umrfi_us_lo34LL8" width="15.9%" />
- <img src="https://media.licdn.com/dms/image/D5622AQFT98WhqvkAWQ/feedshare-shrink_2048_1536/0/1714514091122?e=1723680000&v=beta&t=cd-p6TrQu2_xeiDpVwsmJoypOQByb863Jfud6esBBHI" width="15.9%" />
+ <img src="img/SolidWorks (1).png" width="32%" />
+ <img src="img/SolidWorks (2).png" width="32%" />
+ <img src="img/SolidWorks (3).png" width="32%" />
 </p>
 
 
