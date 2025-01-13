@@ -52,24 +52,29 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdip2001&label=Profile%20views&color=0e75b6&style=flat" alt="akashdip2001" /> </p>
 
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+  <a href="https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>  &nbsp; <a href="https://twitter.com/akashdipaot2001" target="blank"><img src="https://img.shields.io/twitter/follow/akashdipaot2001?logo=twitter&style=for-the-badge" alt="akashdipaot2001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akashdipaot2001" target="blank"><img src="https://img.shields.io/twitter/follow/akashdipaot2001?logo=twitter&style=for-the-badge" alt="akashdipaot2001" /></a> </p>
+- 🔭 **curious about my background** [**web-site**](https://akashdip2001.github.io/website-2/) `last update 2021`
 
-- 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/website-2/)
+- 🌱 works in my college life
 
-- 🌱 I’m currently learning **H@cking**, **NETWORKING**, **iOT**, **Salesforce** [account-link](https://www.salesforce.com/trailblazer/akashdipmahapatra)
+  | **DevOps** | **H@cking** [link🔗](https://youtu.be/pWH4i8pVPJk) | **NETWORKING** [link🔗](https://youtu.be/py_eK8z48g8?si=SaZyOFjCLT-MHIYC) |
+  | --- | --- | --- |
+  | **iOT** [link🔗](https://youtu.be/ySJt3QGyr9w?si=2VsvSz2ms21lVSGX) | **Salesforce** [account-link🔗](https://www.salesforce.com/trailblazer/akashdipmahapatra) | AWS |
 
-- 👨‍💻 All of my projects are available at [my **Linkedin**](https://www.linkedin.com/in/akashdip2001/)
+- 👨‍💻 All of my projects & `achievements` are available at [**Linkedin**](https://www.linkedin.com/in/akashdip2001/)
 
-- 💬 **expert in Kali-linux, Love Drawings , extra knowledge - SolidWorks,AutoCAD,FreeCAD,GIMP,Shotcut video editor**
+- 💬 **expert in**
 
-- 📫 How to reach me **akashdipmahapatra2001@gmail.com**
+  | Technical | Kali-linux | AWS | Git & Github | CICD | WebDev & React |
+  | --- | --- | --- | --- | --- | --- |
+  | mechanical | SolidWorks | AutoCAD | CATIA | CREO | FreeCAD |
 
-- 📄 resume `B.Tech 1st Year` [click](https://akashdip2001.github.io/CV-1/)
+- 📫 How to reach me **mail.me.akashdip2001@gmail.com**
 
-- ⚡ Fun fact **E=mc^2**
+- 📄 resume `B.Tech 3rd Year` [click](https://drive.google.com/file/d/1M8z8Xg009zNDy1B7-HEkL96HpXB02QkN/view?usp=drivesdk)
+
+- ⚡ Fun fact **Love `Physics` & `Statistics`**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
