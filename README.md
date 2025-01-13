@@ -97,6 +97,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- final Year Project 2025 -->
 <img align="right" alt="akashdip mahapatra" width="40%" src="img/finalYearProject2025.png"> 
 
 ## WebDev i know
@@ -105,7 +106,7 @@
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,react)](https://skillicons.dev) . . .
 
 #### Backend
-### [![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,php,nodejs,npm,nginx,firebase,postman)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/nolan/64/api-settings.png'> </a> . . .
+### [![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,php,nodejs,npm,nginx,firebase,postman)](https://skillicons.dev)<a href= https://www.linux.org/></a>
 
 #### DataBase
 ### [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/ios-filled/50/000000/sql.png'> </a> . . .
