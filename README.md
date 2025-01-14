@@ -230,8 +230,8 @@ now i am learning Machine Learning using python
 
 ---
 
-<details>	
- <summary><b>Badges 2024 🪶</b></summary><br>
+<!--<details>	
+ <summary><b>Badges 2024 🪶</b></summary><br>-->
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://www.credly.com/badges/aaf069f2-c02e-4313-8408-94a80aa5a818/public_url"><img src="img/Badge/lfs101-introduction-to-linux.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="110px" height="110px" /></a>
@@ -260,7 +260,7 @@ now i am learning Machine Learning using python
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> --> </a>
 </div>
-</details>
+<!--</details>-->
 
 ---
 <details>	
