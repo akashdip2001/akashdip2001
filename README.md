@@ -244,8 +244,7 @@ now i am learning Machine Learning using python
 <a href="https://www.linkedin.com/posts/akashdip2001_cloudcomputing-ai-googlecloud-activity-7278061329901363200-ZFyq/"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/the-linux-foundation-training-%26-certification_iac-opentofu-devops-activity-7280661407161860096-SSSJ"><img src="img/Badge/lfel1009-getting-started-with-opentofu.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/e0536338-418a-44c7-bae8-e4d47398f1e5/public_url"><img src="img/Badge/lfel1007-automating-supply-chain-security-sboms-and.png" width="100px" height="100px" /></a>
-<a href="http://verify.skilljar.com/c/ftvm76ers6tu"><img src="img/Badge/Introduction to FinOps.png" width="100px" height="100px" /></a>
-<a href="http://verify.skilljar.com/c/zbwf7vxha9yj"><img src="img/Badge/Introduction to FOCUS.png" width="100px" height="100px" /></a>
+<a href="https://www.credly.com/badges/a16c3577-e3dd-47a0-b59c-d6e10ff50ee4/public_url"><img src="img/Badge/linux-kernel-development.png" width="150px" height="150px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="img/Badge/finops-certified-engineer.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="100px" height="100px" /></a>
 
