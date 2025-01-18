@@ -36,11 +36,11 @@
 <!-- <img align="right" alt="logo" width="200" src="img/about-nav-image_03.png">   -->
 
 <div align = 'center'>
- <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&fontStyle=samakaran&text=Akashdip%20Mahapatra&height=150&fontSize=80&desc=Haldia,%20IN&descAlignY=75&descAlign=82.4"/></div>
+ <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&fontStyle=samakaran&text=Akashdip%20Mahapatra&height=150&fontSize=80&desc=Mechanical+Engineer,%202025&descAlignY=75&descAlign=82.4"/></div>
  
- <p align="center">
+ <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Drawing,+Coding,+Hacking;Mechanical+Engineer&center=true&width=380&height=45"/>
-</p> 
+</p> -->
 <h3 src="https://youtu.be/ysBF9EfvWkk?t=428" align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3> 
 
 </br>
