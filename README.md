@@ -17,7 +17,7 @@
   <div style="display: flex; align-items: center; gap: 10px;" align="center">
     <a href="https://www.credly.com/badges/02600532-734a-44c4-954a-bc03105fa653/public_url"><img src="img/Badge/aws-educate-getting-started-with-storage.png" width="150px" height="150px" /></a>
     <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="150px" height="150px" /></a>
-   <a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="155px" height="155px" /></a>
+   <a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="165px" height="165px" /></a>
     <a href="https://www.credly.com/badges/e715c31c-d92a-4920-ae9c-ab40e4ed660a"><img src="img/Badge/intel-cloud-devops.png" width="130px" height="130px" /></a> &nbsp;
    <a href="https://www.linkedin.com/posts/akashdip2001_ibm-cloud-computing-activity-7284828863606484992-LYd4"><img src="img/Badge/IBM-cloud-computing-fundamentals.png" width="130px" height="130px" /></a> &nbsp;
    <a href="https://www.credly.com/badges/a87e2321-76c6-4800-a0de-f3af0917d99b/public_url"><img src="img/Badge/IBM-cybersecurity-fundamentals.png" width="130px" height="130px" /></a>
