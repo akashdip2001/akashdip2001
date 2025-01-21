@@ -258,6 +258,7 @@ now i am learning Machine Learning using python
 <a href="https://www.credly.com/badges/a16c3577-e3dd-47a0-b59c-d6e10ff50ee4/public_url"><img src="img/Badge/linux-kernel-development.png" width="150px" height="150px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="img/Badge/finops-certified-engineer.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="100px" height="100px" /></a>
+<a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" width="145px" height="145px" /></a>
 
   <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
