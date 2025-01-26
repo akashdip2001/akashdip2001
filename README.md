@@ -36,6 +36,7 @@
    </br>
    <a href="https://www.credly.com/badges/2fed1ef9-f89f-4c53-80d6-383194177c27/public_url"><img src="https://github.com/user-attachments/assets/2d015aac-c992-4d26-929d-943c827bdb55" width="250px" height="250px" /></a>   
    <a href="https://www.credly.com/badges/c83aa74f-c18c-413f-b7eb-053b9ba95e6e/public_url"><img src="https://github.com/user-attachments/assets/56cc1f5f-b712-46e0-96e5-8f936f9571bb" width="250px" height="250px" /></a> 
+   </br>
    <a href="https://www.credly.com/badges/85abc0d0-660a-449e-a681-07542efb3fe1/public_url"><img src="https://github.com/user-attachments/assets/e719e2ec-18f6-4b66-a1b5-cba67440fc72" width="250px" height="250px" /></a> 
    <a href="https://www.credly.com/badges/6dd7497c-ae4e-4ec2-a5a7-c04f0bc92f01/public_url"><img src="https://github.com/user-attachments/assets/a3cb0014-4095-4ae6-9c10-68c2d971a19b" width="250px" height="250px" /></a> 
   </div>
@@ -275,7 +276,8 @@ now i am learning Machine Learning using python
    
    </br>
    <a href="https://www.credly.com/badges/2fed1ef9-f89f-4c53-80d6-383194177c27/public_url"><img src="https://github.com/user-attachments/assets/2d015aac-c992-4d26-929d-943c827bdb55" width="250px" height="250px" /></a>   
-   <a href="https://www.credly.com/badges/c83aa74f-c18c-413f-b7eb-053b9ba95e6e/public_url"><img src="https://github.com/user-attachments/assets/56cc1f5f-b712-46e0-96e5-8f936f9571bb" width="250px" height="250px" /></a> 
+   <a href="https://www.credly.com/badges/c83aa74f-c18c-413f-b7eb-053b9ba95e6e/public_url"><img src="https://github.com/user-attachments/assets/56cc1f5f-b712-46e0-96e5-8f936f9571bb" width="250px" height="250px" /></a>
+   </br>
    <a href="https://www.credly.com/badges/85abc0d0-660a-449e-a681-07542efb3fe1/public_url"><img src="https://github.com/user-attachments/assets/e719e2ec-18f6-4b66-a1b5-cba67440fc72" width="250px" height="250px" /></a> 
    <a href="https://www.credly.com/badges/6dd7497c-ae4e-4ec2-a5a7-c04f0bc92f01/public_url"><img src="https://github.com/user-attachments/assets/a3cb0014-4095-4ae6-9c10-68c2d971a19b" width="250px" height="250px" /></a>  
 
