@@ -29,6 +29,10 @@
    <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="img/Badge/finops-certified-engineer.png" width="150px" height="150px" /></a>
    <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="150px" height="150px" /></a>
    <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" width="150px" height="150px" /></a>
+
+   </br>
+   </br>
+   <a href="https://www.credly.com/badges/2fed1ef9-f89f-4c53-80d6-383194177c27/public_url"><img src="https://github.com/user-attachments/assets/2d015aac-c992-4d26-929d-943c827bdb55" width="250px" height="250px" /></a>   
   </div>
 </br>
  [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
