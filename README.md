@@ -31,7 +31,7 @@
    <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" width="150px" height="150px" /></a>
 
    </br>
-   <a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="https://github.com/user-attachments/assets/a3cb0014-4095-4ae6-9c10-68c2d971a19b" width="250px" height="250px" /></a> 
+   <a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="img/Badge/Google Cloud Computing Foundations Certificate.png" width="250px" height="250px" /></a> 
    
    </br>
    <a href="https://www.credly.com/badges/2fed1ef9-f89f-4c53-80d6-383194177c27/public_url"><img src="https://github.com/user-attachments/assets/2d015aac-c992-4d26-929d-943c827bdb55" width="250px" height="250px" /></a>   
