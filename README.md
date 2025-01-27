@@ -31,6 +31,13 @@
    <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" width="150px" height="150px" /></a>
 
    </br>
+   </br>
+    <a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="https://github.com/user-attachments/assets/9fe80737-878c-42a4-8d61-5014746225eb"/></a> 
+   </br>
+   
+   <details>
+    <summary style="opacity: 0.85;"><b>☁️ Google Cloud Badges 🥇</b></summary><br>
+   </br>
    <a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="img/Badge/Google Cloud Computing Foundations Certificate.png" width="250px" height="250px" /></a> 
    
    </br>
@@ -39,6 +46,7 @@
    </br>
    <a href="https://www.credly.com/badges/85abc0d0-660a-449e-a681-07542efb3fe1/public_url"><img src="https://github.com/user-attachments/assets/e719e2ec-18f6-4b66-a1b5-cba67440fc72" width="250px" height="250px" /></a> 
    <a href="https://www.credly.com/badges/6dd7497c-ae4e-4ec2-a5a7-c04f0bc92f01/public_url"><img src="https://github.com/user-attachments/assets/a3cb0014-4095-4ae6-9c10-68c2d971a19b" width="250px" height="250px" /></a> 
+  </details>
   </div>
 </br>
  [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
