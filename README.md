@@ -3,13 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://akashdip2001.github.io/linktree/)
 
 
-[<img align="left" alt="logo" width="150" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001) 
+[<img align="left" alt="logo" width="150" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001)
 <div style='display:flex; align-items:center; gap: 30px;' align='center'>
+<a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="180px" height="180px" /></a>
+<a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="185px" height="185px" /></a>
+<a href="https://www.credly.com/badges/b6fecf8a-dc7b-47f5-8275-0df8d829aeed/public_url"><img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" width="180px" height="180px" /></a>
+</br>
 
-<a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="160px" height="160px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_postman-api-certification-activity-7264947968200368128-MHWG"><img src="img/Badge/Postman White badge.png" width="150px" height="150px" /></a>
 <a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-educate-introduction-to-cloud-101.png" width="150px" height="150px" /></a> &nbsp; &nbsp;
 <a href="https://www.credly.com/badges/aaf069f2-c02e-4313-8408-94a80aa5a818/public_url"><img src="img/Badge/lfs101-introduction-to-linux.png" width="150px" height="150px" style="margin-bottom: 17px;" /></a>
+<a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="img/Badge/Google Cloud Computing Foundations Certificate.png" width="160px" height="160px" /></a>
 </br>
  
 <details>
@@ -17,7 +21,6 @@
   <div style="display: flex; align-items: center; gap: 10px;" align="center">
    <a href="https://www.credly.com/badges/02600532-734a-44c4-954a-bc03105fa653/public_url"><img src="img/Badge/aws-educate-getting-started-with-storage.png" width="150px" height="150px" /></a>
    <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="150px" height="150px" /></a>
-   <a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="165px" height="165px" /></a>
    <a href="https://www.credly.com/badges/e715c31c-d92a-4920-ae9c-ab40e4ed660a"><img src="img/Badge/intel-cloud-devops.png" width="130px" height="130px" /></a> &nbsp;
    <a href="https://www.linkedin.com/posts/akashdip2001_ibm-cloud-computing-activity-7284828863606484992-LYd4"><img src="img/Badge/IBM-cloud-computing-fundamentals.png" width="130px" height="130px" /></a> &nbsp;
    <a href="https://www.credly.com/badges/a87e2321-76c6-4800-a0de-f3af0917d99b/public_url"><img src="img/Badge/IBM-cybersecurity-fundamentals.png" width="130px" height="130px" /></a> &nbsp;
@@ -263,6 +266,7 @@ now i am learning Machine Learning using python
 <a href="https://www.credly.com/badges/aaf069f2-c02e-4313-8408-94a80aa5a818/public_url"><img src="img/Badge/lfs101-introduction-to-linux.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="110px" height="110px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="155px" height="155px" /></a>
+<a href="https://www.credly.com/badges/b6fecf8a-dc7b-47f5-8275-0df8d829aeed/public_url"><img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" width="140px" height="140px" /></a>
 <a href="https://badgr.com/public/assertions/S9quac7wTv6gBHZcz5lHzg?identity__email=akashdip.mahapatra.21@aot.edu.in"><img src="img/Badge/Postman White badge.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-educate-introduction-to-cloud-101.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/02600532-734a-44c4-954a-bc03105fa653/public_url"><img src="img/Badge/aws-educate-getting-started-with-storage.png" width="100px" height="100px" /></a>
