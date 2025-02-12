@@ -26,6 +26,7 @@
    <a href="https://www.credly.com/badges/a87e2321-76c6-4800-a0de-f3af0917d99b/public_url"><img src="img/Badge/IBM-cybersecurity-fundamentals.png" width="130px" height="130px" /></a> &nbsp;
    <a href="https://www.credly.com/users/akashdip2001/"><img src="https://github.com/user-attachments/assets/f63c4280-484a-4bfc-942d-9b26fd0d4922" width="140px" height="140px" /></a>
    <a href="https://www.linkedin.com/posts/akashdip2001_cloudcomputing-ai-googlecloud-activity-7278061329901363200-ZFyq/"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="150px" height="150px" /></a>
+   <a href="https://t.co/uGlzZAdswk"><img src="https://github.com/user-attachments/assets/e7b334a7-7aea-4527-b7c2-8be4cdbac9a8" width="150px" height="150px" /></a>
    <a href="https://www.credly.com/badges/a16c3577-e3dd-47a0-b59c-d6e10ff50ee4/public_url"><img src="img/Badge/linux-kernel-development.png" width="150px" height="150px" /></a>
    <a href="https://www.linkedin.com/posts/the-linux-foundation-training-%26-certification_iac-opentofu-devops-activity-7280661407161860096-SSSJ"><img src="img/Badge/lfel1009-getting-started-with-opentofu.png" width="150px" height="150px" /></a>
    <a href="https://www.credly.com/badges/e0536338-418a-44c7-bae8-e4d47398f1e5/public_url"><img src="img/Badge/lfel1007-automating-supply-chain-security-sboms-and.png" width="150px" height="150px" /></a>
@@ -276,6 +277,7 @@ now i am learning Machine Learning using python
 <a href="https://www.linkedin.com/posts/akashdip2001_ibm-cloud-computing-activity-7284828863606484992-LYd4"><img src="img/Badge/IBM-cloud-computing-fundamentals.png" width="100px" height="100px" /></a> &nbsp;
 <a href="https://www.credly.com/badges/a87e2321-76c6-4800-a0de-f3af0917d99b/public_url"><img src="img/Badge/IBM-cybersecurity-fundamentals.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_cloudcomputing-ai-googlecloud-activity-7278061329901363200-ZFyq/"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="100px" height="100px" /></a>
+ <a href="https://t.co/uGlzZAdswk"><img src="https://github.com/user-attachments/assets/e7b334a7-7aea-4527-b7c2-8be4cdbac9a8" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/the-linux-foundation-training-%26-certification_iac-opentofu-devops-activity-7280661407161860096-SSSJ"><img src="img/Badge/lfel1009-getting-started-with-opentofu.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/e0536338-418a-44c7-bae8-e4d47398f1e5/public_url"><img src="img/Badge/lfel1007-automating-supply-chain-security-sboms-and.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/a16c3577-e3dd-47a0-b59c-d6e10ff50ee4/public_url"><img src="img/Badge/linux-kernel-development.png" width="150px" height="150px" /></a>
