@@ -33,6 +33,7 @@
    <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="img/Badge/finops-certified-engineer.png" width="150px" height="150px" /></a>
    <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="150px" height="150px" /></a>
    <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" width="150px" height="150px" /></a>
+   <a href="https://www.linkedin.com/posts/akashdip2001_ai-foundations-associate-activity-7295821440686141440-jBoM"><img src="https://github.com/user-attachments/assets/bc2275fe-17e9-48af-b25a-e2a9aa13d35c" width="150px" height="150px" /></a>
 
    </br>
    </br>
@@ -284,7 +285,7 @@ now i am learning Machine Learning using python
 <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="img/Badge/finops-certified-engineer.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="100px" height="100px" /></a>
 <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" width="145px" height="145px" /></a>
-
+<a href="https://www.linkedin.com/posts/akashdip2001_ai-foundations-associate-activity-7295821440686141440-jBoM"><img src="https://github.com/user-attachments/assets/bc2275fe-17e9-48af-b25a-e2a9aa13d35c" width="145px" height="145px" /></a>
 </br>
    <a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="img/Badge/Google Cloud Computing Foundations Certificate.png" width="250px" height="250px" /></a> 
    
