@@ -25,6 +25,8 @@
    <a href="https://www.linkedin.com/posts/akashdip2001_ibm-cloud-computing-activity-7284828863606484992-LYd4"><img src="img/Badge/IBM-cloud-computing-fundamentals.png" width="130px" height="130px" /></a> &nbsp;
    <a href="https://www.credly.com/badges/a87e2321-76c6-4800-a0de-f3af0917d99b/public_url"><img src="img/Badge/IBM-cybersecurity-fundamentals.png" width="130px" height="130px" /></a> &nbsp;
    <a href="https://www.credly.com/users/akashdip2001/"><img src="https://github.com/user-attachments/assets/f63c4280-484a-4bfc-942d-9b26fd0d4922" width="140px" height="140px" /></a>
+   <a href="https://www.linkedin.com/posts/akashdip2001_python-cisconetworkingacademy-openedg-activity-7296757851341959168-IhOj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQRwRQBthwu1pD7TKHPClAilXa9CMan1H8"><img src="https://github.com/user-attachments/assets/8378642d-b779-44ef-939b-dede8c8dc004" width="140px" height="140px" /></a>
+   <a href="https://www.credly.com/badges/ee48f5b9-60c7-42a4-9ea4-4d9fee52d17b/public_url"><img src="https://github.com/user-attachments/assets/9d157163-1a6d-4d03-ae2b-0dbefb52b426" width="140px" height="140px" /></a>  
    <a href="https://www.linkedin.com/posts/akashdip2001_cloudcomputing-ai-googlecloud-activity-7278061329901363200-ZFyq/"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="150px" height="150px" /></a>
    <a href="https://t.co/uGlzZAdswk"><img src="https://github.com/user-attachments/assets/e7b334a7-7aea-4527-b7c2-8be4cdbac9a8" width="150px" height="150px" /></a>
    <a href="https://www.credly.com/badges/a16c3577-e3dd-47a0-b59c-d6e10ff50ee4/public_url"><img src="img/Badge/linux-kernel-development.png" width="150px" height="150px" /></a>
@@ -275,6 +277,8 @@ now i am learning Machine Learning using python
 <a href="https://www.credly.com/badges/6ea09b08-c1f7-4035-ae3b-bf921004d224/public_url"><img src="img/Badge/aws-educate-getting-started-with-security.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/e715c31c-d92a-4920-ae9c-ab40e4ed660a"><img src="img/Badge/intel-cloud-devops.png" width="130px" height="130px" /></a>
 <a href="https://www.credly.com/users/akashdip2001/"><img src="https://github.com/user-attachments/assets/f63c4280-484a-4bfc-942d-9b26fd0d4922" width="120px" height="120px" /></a> &nbsp;
+<a href="https://www.linkedin.com/posts/akashdip2001_python-cisconetworkingacademy-openedg-activity-7296757851341959168-IhOj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQRwRQBthwu1pD7TKHPClAilXa9CMan1H8"><img src="https://github.com/user-attachments/assets/8378642d-b779-44ef-939b-dede8c8dc004" width="140px" height="140px" /></a>
+   <a href="https://www.credly.com/badges/ee48f5b9-60c7-42a4-9ea4-4d9fee52d17b/public_url"><img src="https://github.com/user-attachments/assets/9d157163-1a6d-4d03-ae2b-0dbefb52b426" width="140px" height="140px" /></a> 
 <a href="https://www.linkedin.com/posts/akashdip2001_ibm-cloud-computing-activity-7284828863606484992-LYd4"><img src="img/Badge/IBM-cloud-computing-fundamentals.png" width="100px" height="100px" /></a> &nbsp;
 <a href="https://www.credly.com/badges/a87e2321-76c6-4800-a0de-f3af0917d99b/public_url"><img src="img/Badge/IBM-cybersecurity-fundamentals.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_cloudcomputing-ai-googlecloud-activity-7278061329901363200-ZFyq/"><img src="img/Badge/Cloud Technical Series App Dev & Infrastructure Edition.png" width="100px" height="100px" /></a>
