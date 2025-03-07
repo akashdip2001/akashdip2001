@@ -189,6 +189,9 @@
  <img src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l_3.jpg" width="20.5%" />
  <img href="https://github.com/akashdip2001/ESP32-host-HTML-website/blob/main/README.md" src="https://github.com/akashdip2001/ESP32-host-HTML-website/raw/main/img/sim800l_6.jpg" width="36.5%" />
 </p>
+
+[![micro controller](https://github.com/user-attachments/assets/ddb45fbe-f71a-4518-9f32-479d2ba073b5)](https://www.linkedin.com/posts/akashdip2001_iot-embeddedsystems-diyprojects-activity-7303778525390520320-jg-V)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## AI - ML
