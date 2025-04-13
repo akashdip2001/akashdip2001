@@ -191,6 +191,7 @@
 </p>
 
 [![micro controller](https://github.com/user-attachments/assets/ddb45fbe-f71a-4518-9f32-479d2ba073b5)](https://www.linkedin.com/posts/akashdip2001_iot-embeddedsystems-diyprojects-activity-7303778525390520320-jg-V)
+<img src="https://github.com/akashdip2001/High-end-autonomous-anomaly-detection-robot/raw/main/modules%20(1).jpg">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
