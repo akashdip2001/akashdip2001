@@ -296,6 +296,7 @@ now i am learning Machine Learning using python
 <a href="https://www.credly.com/badges/a16c3577-e3dd-47a0-b59c-d6e10ff50ee4/public_url"><img src="img/Badge/linux-kernel-development.png" width="150px" height="150px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="img/Badge/finops-certified-engineer.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="img/Badge/nasa open science Badge.png" width="100px" height="100px" /></a>
+<a href="https://www.linkedin.com/posts/akashdip2001_guinnessworldrecords-aiskillsfest-microsoftlearn-activity-7323753706363981825-uL_1"><img src="img/Badge/Microsoft-Learner-Badge-Guinness-World-Record-Holder.png" width="150px" height="150px" /></a>
 <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" width="145px" height="145px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_oraclecertified-artificialintelligence-machinelearning-activity-7302354236472770562-VmMA"><img src="img/Badge/Oracle AI Vector Search Certified Professional.png" width="150px" height="150px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_ai-foundations-associate-activity-7295821440686141440-jBoM"><img src="https://github.com/user-attachments/assets/bc2275fe-17e9-48af-b25a-e2a9aa13d35c" width="145px" height="145px" /></a>
