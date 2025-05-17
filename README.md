@@ -5,9 +5,10 @@
 
 [<img align="left" alt="logo" width="150" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001)
 <div style='display:flex; align-items:center; gap: 30px;' align='center'>
-<a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="180px" height="180px" /></a>
-<a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="185px" height="185px" /></a>
-<a href="https://www.credly.com/badges/b6fecf8a-dc7b-47f5-8275-0df8d829aeed/public_url"><img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" width="180px" height="180px" /></a>
+<!-- <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="180px" height="180px" /></a> -->
+<a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="180px" height="180px" /></a>
+<a href="https://www.credly.com/badges/9e0d21a7-ee7a-4588-8e57-94bfa8185d8e/public_url"><img src="img/Badge/GitHub Administration.png" width="187px" height="187px" /></a>
+<a href="https://www.credly.com/users/akashdip2001"><img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" width="180px" height="180px" /></a>
 </br>
 
 <a href="https://www.linkedin.com/posts/akashdip2001_postman-api-certification-activity-7264947968200368128-MHWG"><img src="img/Badge/Postman White badge.png" width="150px" height="150px" /></a>
@@ -279,6 +280,7 @@ now i am learning Machine Learning using python
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="110px" height="110px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="155px" height="155px" /></a>
 <a href="https://www.credly.com/badges/b6fecf8a-dc7b-47f5-8275-0df8d829aeed/public_url"><img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" width="140px" height="140px" /></a>
+<a href="https://www.credly.com/badges/9e0d21a7-ee7a-4588-8e57-94bfa8185d8e/public_url"><img src="img/Badge/GitHub Administration.png" width="180px" height="180px" /></a>
 <a href="https://badgr.com/public/assertions/S9quac7wTv6gBHZcz5lHzg?identity__email=akashdip.mahapatra.21@aot.edu.in"><img src="img/Badge/Postman White badge.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-educate-introduction-to-cloud-101.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/02600532-734a-44c4-954a-bc03105fa653/public_url"><img src="img/Badge/aws-educate-getting-started-with-storage.png" width="100px" height="100px" /></a>
