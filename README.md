@@ -13,6 +13,7 @@
 
 <a href="https://www.linkedin.com/posts/akashdip2001_postman-api-certification-activity-7264947968200368128-MHWG"><img src="img/Badge/Postman White badge.png" width="150px" height="150px" /></a>
 <a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-educate-introduction-to-cloud-101.png" width="150px" height="150px" /></a> &nbsp; &nbsp;
+<a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-cloud-quest-cloud-practitioner.png" width="150px" height="150px" /></a> &nbsp; &nbsp;
 <a href="https://www.credly.com/badges/aaf069f2-c02e-4313-8408-94a80aa5a818/public_url"><img src="img/Badge/lfs101-introduction-to-linux.png" width="150px" height="150px" style="margin-bottom: 17px;" /></a>
 <a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="img/Badge/Google Cloud Computing Foundations Certificate.png" width="160px" height="160px" /></a>
 </br>
