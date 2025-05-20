@@ -279,6 +279,7 @@ now i am learning Machine Learning using python
 <!--<details>	
  <summary><b>Badges 2024 🪶</b></summary><br>-->
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-cloud-quest-cloud-practitioner.png" width="150px" height="150px" /></a> &nbsp; &nbsp;
 <a href="https://www.credly.com/badges/aaf069f2-c02e-4313-8408-94a80aa5a818/public_url"><img src="img/Badge/lfs101-introduction-to-linux.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="110px" height="110px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="155px" height="155px" /></a>
