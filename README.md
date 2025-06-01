@@ -81,6 +81,45 @@
 
 </br>
 
+---
+
+## 🔧 **Active Projects**
+
+| Project                                | Description & Technologies                                                                                                                                | Link                                                                                                          | Tags                                               |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **NAS with ESP32**                     | ESP32-based **Network Attached Storage (NAS)** using SD card & HTTP server. Lightweight storage access over Wi-Fi. <br>**Tech:** ESP32, SD, HTTP, Arduino | [View Repo](https://github.com/akashdip2001/NAS-with-ESP32)                                                   | `IoT`, `Networking`, `Embedded`, `ESP32`           |
+| **Wireless Video Transmitter**         | Experimental project for **non-invasive video broadcasting** to displays using wireless transmission. <br>**Tech:** RF, ESP32, Signal Injection           | [View Repo](https://github.com/akashdip2001/Wireless-Video-Transmitter)                                       | `IoT`, `Networking`, `RF`, `Security`, `Hardware`  |
+| **Wi-Fi Penetration System**           | Wi-Fi network scanner with penetration testing tools for ethical use. <br>**Tech:** ESP8266/ESP32, Python, Packet Sniffing                                | [View Repo](https://github.com/akashdip2001/WIFI-project-penetration-system)                                  | `Security`, `IoT`, `Networking`, `Ethical Hacking` |
+| **3D Scene Sync via WebSockets**       | Real-time **multi-device 3D scene synchronization** via WebSockets for collaborative environments. <br>**Tech:** WebGL, Node.js, WebSockets               | [View Repo](https://github.com/akashdip2001/Real-Time-Multi-Device-3D-Scene-Synchronization-Using-WebSockets) | `Networking`, `Web`, `Visualization`, `Real-time`  |
+| **Cross-Domain Protocol Translator**   | Middleware to **bridge communication across different IoT protocols** (e.g., MQTT to HTTP). <br>**Tech:** Node.js, MQTT, WebSockets                       | [View Repo](https://github.com/akashdip2001/Cross-Domain-Protocol-Translator)                                 | `IoT`, `Networking`, `Middleware`, `Protocol`      |
+| **Linux Kernel Modifications**         | Custom forks & mods of the **Linux Kernel** for educational and experimental use. <br>**Tech:** C, Kernel Dev, Linux                                      | [View Repo](https://github.com/akashdip2001/The-Linux-Kernel)                                                 | `System`, `Development`, `Kernel`, `Linux`         |
+| **Autonomous Anomaly Detection Robot** | AI-powered robot to detect environmental anomalies autonomously. <br>**Tech:** ML, Sensors, ESP32, Arduino                                                | [View Repo](https://github.com/akashdip2001/High-end-autonomous-anomaly-detection-robot)                      | `IoT`, `Robotics`, `AI`, `Security`                |
+
+---
+
+## ✅ **Completed Projects (Maintainable)**
+
+| Project                      | Description & Technologies                                                                                            | Link                                                                                 | Tags                                                   |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| **ESP32 HTML Host**          | ESP32 as a **web server** hosting an HTML interface to control hardware. <br>**Tech:** ESP32, HTML, Arduino           | [View Repo](https://github.com/akashdip2001/ESP32-host-HTML-website)                 | `IoT`, `Web`, `ESP32`, `Control`                       |
+| **Wi-Fi Deauther (ESP8266)** | ESP8266 + OLED-based **Wi-Fi deauther tool** for testing network robustness. <br>**Tech:** ESP8266, OLED, Arduino     | [View Repo](https://github.com/akashdip2001/Wi-Fi-deauther-with-ESP8266-OLED-module) | `Security`, `ESP8266`, `Networking`, `Ethical Hacking` |
+| **Server.py**                | Lightweight **Python server** to handle IoT device communication. <br>**Tech:** Python, Flask                         | [View Repo](https://github.com/akashdip2001/server.py)                               | `IoT`, `Backend`, `Python`, `Web`                      |
+| **Realtime Tracker**         | GPS + web dashboard system to **track location in real time**. <br>**Tech:** GPS, Node.js, WebSockets                 | [View Repo](https://github.com/akashdip2001/Realtime_Tracker)                        | `IoT`, `GPS`, `Web`, `Tracking`                        |
+| **GPS with ESP**             | Simple **GPS module integration** with ESP32/ESP8266 to send data via serial/Wi-Fi. <br>**Tech:** GPS, ESP32, Arduino | [View Repo](https://github.com/akashdip2001/GPS-with-ESP)                            | `IoT`, `GPS`, `ESP32`, `Sensor`                        |
+
+---
+
+## 🎮 **IoT Game Projects**
+
+| Project                            | Description & Technologies                                                                            | Link                                                                              | Tags                             |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------- |
+| **OLED Display Game (Arduino)**    | Classic arcade game on a small **OLED screen** using Arduino. <br>**Tech:** Arduino, OLED, Game Logic | [View Repo](https://github.com/akashdip2001/ARDUINO-with-OLED-Display-Game)       | `IoT`, `Arduino`, `Game`, `OLED` |
+| **Endless Runner (LCD + Arduino)** | A fun endless runner game on **character LCD display**. <br>**Tech:** Arduino, LCD, Game Design       | [View Repo](https://github.com/akashdip2001/LCD-with-ARDUINO-Endless-Runner-game) | `IoT`, `Arduino`, `Game`, `LCD`  |
+
+---
+
+</br>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=600&duration=3000&pause=2000&lines=If+you+LOVE+me+-->+give+a+Favor+👏)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&color=7063ce&pause=2000&lines=click+the+Image+billow+and+Nominate+Star+⭐)
 [<img src="https://github.com/user-attachments/assets/9747daba-e24e-4c31-b84f-335db6ac2f2f">](https://stars.github.com/nominate/)
