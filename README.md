@@ -97,7 +97,7 @@
 
 ---
 
-## ✅ **Completed Projects (Maintainable)**
+## ✅ **Completed Projects (Need to Update)**
 
 | Project                      | Description & Technologies                                                                                            | Link                                                                                 | Tags                                                   |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------ |
@@ -115,6 +115,18 @@
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------- |
 | **OLED Display Game (Arduino)**    | Classic arcade game on a small **OLED screen** using Arduino. <br>**Tech:** Arduino, OLED, Game Logic | [View Repo](https://github.com/akashdip2001/ARDUINO-with-OLED-Display-Game)       | `IoT`, `Arduino`, `Game`, `OLED` |
 | **Endless Runner (LCD + Arduino)** | A fun endless runner game on **character LCD display**. <br>**Tech:** Arduino, LCD, Game Design       | [View Repo](https://github.com/akashdip2001/LCD-with-ARDUINO-Endless-Runner-game) | `IoT`, `Arduino`, `Game`, `LCD`  |
+
+---
+
+## 🚀 Future Work
+
+| Project Name | Description | Repository Link |
+|--------------|-------------|-----------------|
+| **MobiLinkDrive** | A project focused on intelligent mobile-linked drive systems, enabling smart vehicular integration. | [MobiLinkDrive](https://github.com/akashdip2001/MobiLinkDrive) |
+| **WiFi-MultiDrive** | A WiFi-based multiple drive control system, aimed at efficient wireless management of multiple devices. | [WiFi-MultiDrive](https://github.com/akashdip2001/WiFi-MultiDrive) |
+| **NeuroShield - Smart Electromagnetic Human Protection System** | A conceptual system designed to shield humans from harmful EM waves using neuroadaptive shielding technology. | [NeuroShield](https://github.com/akashdip2001/NeuroShield-Smart-Electromagnetic-Human-Protection-System) |
+| **QuantaVault** | A secure quantum data storage concept integrating quantum encryption principles for next-gen digital security. | [QuantaVault](https://github.com/akashdip2001/QuantaVault) |
+| **TimeMachineTheory** | A theoretical exploration into time travel and manipulation, with a focus on scientific modeling and conceptual analysis. | [TimeMachineTheory](https://github.com/akashdip2001/TimeMachineTheory) |
 
 ---
 
