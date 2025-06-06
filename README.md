@@ -136,6 +136,7 @@
 |--------------|-------------|-----------------|
 | **MobiLinkDrive** | A project focused on intelligent mobile-linked drive systems, enabling smart vehicular integration. | [MobiLinkDrive](https://github.com/akashdip2001/MobiLinkDrive) |
 | **WiFi-MultiDrive** | A WiFi-based multiple drive control system, aimed at efficient wireless management of multiple devices. | [WiFi-MultiDrive](https://github.com/akashdip2001/WiFi-MultiDrive) |
+| **Layers-of-Vision** | See the world through the eyes of AI - help humans understand how computers perceive and analyze visual information — starting from the most fundamental form (binary bits) ... | [how-computers-see](https://github.com/akashdip2001/Layers-of-Vision) |
 | **NeuroShield - Smart Electromagnetic Human Protection System** | A conceptual system designed to shield humans from harmful EM waves using neuroadaptive shielding technology. | [NeuroShield](https://github.com/akashdip2001/NeuroShield-Smart-Electromagnetic-Human-Protection-System) |
 | **QuantaVault** | A secure quantum data storage concept integrating quantum encryption principles for next-gen digital security. | [QuantaVault](https://github.com/akashdip2001/QuantaVault) |
 | **TimeMachineTheory** | A theoretical exploration into time travel and manipulation, with a focus on scientific modeling and conceptual analysis. | [TimeMachineTheory](https://github.com/akashdip2001/TimeMachineTheory) |
