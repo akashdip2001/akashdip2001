@@ -79,9 +79,21 @@
 </p> -->
 <h3 src="https://youtu.be/ysBF9EfvWkk?t=428" align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3> 
 
+---
+
+</br>
 </br>
 
----
+[![Screenshot (615)](https://github.com/user-attachments/assets/ab0b71f3-7432-41e5-9fcd-078b53cac91b)](https://www.credly.com/users/akashdip2001)
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+  
+# ⭐ Credly [**`achievements`**](https://www.credly.com/users/akashdip2001) ⭐
+</div>
+
+</br>
+</br>
+</br>
 
 ## 🔧 **Active Projects**
 
