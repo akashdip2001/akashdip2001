@@ -95,6 +95,24 @@
 </br>
 </br>
 
+
+</br>
+</br>
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+
+ ---
+ 
+#### Projects <a name="projects001"></a>
+
+---
+
+</div>
+
+</br>
+</br>
+
+
+
 ## 🔧 **Active Projects**
 
 | Project                                | Description & Technologies                                                                                                                                | Link                                                                                                          | Tags                                               |
