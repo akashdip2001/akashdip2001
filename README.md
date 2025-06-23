@@ -129,13 +129,16 @@
 </br>
 </br>
 
+> 🍁 very good projects `Developing from scratch`. </br>
+> 📶📡 Network related projects.
 
+</br>
 
 ## 🔧 **Active Projects**
 
 | Project                                | Description & Technologies                                                                                                                                | Link                                                                                                          | Tags                                               |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **NAS with ESP32**                     | ESP32-based **Network Attached Storage (NAS)** using SD card & HTTP server. Lightweight storage access over Wi-Fi. <br>**Tech:** ESP32, SD, HTTP, Arduino | [View Repo](https://github.com/akashdip2001/NAS-with-ESP32)                                                   | `IoT`, `Networking`, `Embedded`, `ESP32`           |
+| **NAS with ESP32** 🍁                    | ESP32-based **Network Attached Storage (NAS)** using SD card & HTTP server. Lightweight storage access over Wi-Fi. <br>**Tech:** ESP32, SD, HTTP, Arduino | [View Repo](https://github.com/akashdip2001/NAS-with-ESP32)                                                   | `IoT`, `Networking`, `Embedded`, `ESP32`           |
 | **Wireless Video Transmitter**         | Experimental project for **non-invasive video broadcasting** to displays using wireless transmission. <br>**Tech:** RF, ESP32, Signal Injection           | [View Repo](https://github.com/akashdip2001/Wireless-Video-Transmitter)                                       | `IoT`, `Networking`, `RF`, `Security`, `Hardware`  |
 | **Wi-Fi Penetration System**           | Wi-Fi network scanner with penetration testing tools for ethical use. <br>**Tech:** ESP8266/ESP32, Python, Packet Sniffing                                | [View Repo](https://github.com/akashdip2001/WIFI-project-penetration-system)                                  | `Security`, `IoT`, `Networking`, `Ethical Hacking` |
 | **3D Scene Sync via WebSockets**       | Real-time **multi-device 3D scene synchronization** via WebSockets for collaborative environments. <br>**Tech:** WebGL, Node.js, WebSockets               | [View Repo](https://github.com/akashdip2001/Real-Time-Multi-Device-3D-Scene-Synchronization-Using-WebSockets) | `Networking`, `Web`, `Visualization`, `Real-time`  |
@@ -145,19 +148,23 @@
 
 ---
 
+</br>
+
 ## ✅ **Completed Projects (Need to Update)**
 
 | Project                      | Description & Technologies                                                                                            | Link                                                                                 | Tags                                                   |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| **ESP32 HTML Host**          | ESP32 as a **web server** hosting an HTML interface to control hardware. <br>**Tech:** ESP32, HTML, Arduino           | [View Repo](https://github.com/akashdip2001/ESP32-host-HTML-website)                 | `IoT`, `Web`, `ESP32`, `Control`                       |
-| **Wi-Fi Deauther (ESP8266)** | ESP8266 + OLED-based **Wi-Fi deauther tool** for testing network robustness. <br>**Tech:** ESP8266, OLED, Arduino     | [View Repo](https://github.com/akashdip2001/Wi-Fi-deauther-with-ESP8266-OLED-module) | `Security`, `ESP8266`, `Networking`, `Ethical Hacking` |
-| **Server.py**                | Lightweight **Python server** to handle IoT device communication. <br>**Tech:** Python, Flask                         | [View Repo](https://github.com/akashdip2001/server.py)                               | `IoT`, `Backend`, `Python`, `Web`                      |
-| **Splitra**    | A lightweight video splitter and exporter to bypass file size limits in GitHub repositories or other storage systems.                 | [View Repo](https://github.com/akashdip2001/Splitra)                        | `Python`, `File System`, `dev`                    |
-| **Video To QR**    | A Python tool to convert video files into high-capacity QR codes for offline storage and transfer, and later reconstruct them seamlessly                 | [View Repo](https://github.com/akashdip2001/video-to-QR)                        | `Python`, `qrcode`, `dev`                    |
-| **Realtime Tracker**         | GPS + web dashboard system to **track location in real time**. <br>**Tech:** GPS, Node.js, WebSockets                 | [View Repo](https://github.com/akashdip2001/Realtime_Tracker)                        | `IoT`, `GPS`, `Web`, `Tracking`                        |
-| **GPS with ESP**             | Simple **GPS module integration** with ESP32/ESP8266 to send data via serial/Wi-Fi. <br>**Tech:** GPS, ESP32, Arduino | [View Repo](https://github.com/akashdip2001/GPS-with-ESP)                            | `IoT`, `GPS`, `ESP32`, `Sensor`                        |
+| **ESP32 HTML Host** 🍁         | ESP32 as a **web server** hosting an HTML interface to control hardware. <br>**Tech:** ESP32, HTML, Arduino           | [View Repo](https://github.com/akashdip2001/ESP32-host-HTML-website)                 | `IoT`, `Web`, `ESP32`, `Control`                       |
+| **Wi-Fi Deauther (ESP8266)** ⚠️ | ESP8266 + OLED-based **Wi-Fi deauther tool** for testing network robustness. <br>**Tech:** ESP8266, OLED, Arduino     | [View Repo](https://github.com/akashdip2001/Wi-Fi-deauther-with-ESP8266-OLED-module) | `Security`, `ESP8266`, `Networking`, `Ethical Hacking` |
+| **Server.py** 🍁               | Lightweight **Python server** to handle IoT device communication. <br>**Tech:** Python, Flask                         | [View Repo](https://github.com/akashdip2001/server.py)                               | `IoT`, `Backend`, `Python`, `Web`                      |
+| **Splitra**  🍁 [`new`]()  | A lightweight video splitter and exporter to bypass file size limits in GitHub repositories or other storage systems.                 | [View Repo](https://github.com/akashdip2001/Splitra)                        | `Python`, `File System`, `dev`                    |
+| **Video To QR**  🍁 [`new`]()   | A Python tool to convert video files into high-capacity QR codes for offline storage and transfer, and later reconstruct them seamlessly                 | [View Repo](https://github.com/akashdip2001/video-to-QR)                        | `Python`, `qrcode`, `dev`                    |
+| **Realtime Tracker** 📶📡        | GPS + web dashboard system to **track location in real time**. <br>**Tech:** GPS, Node.js, WebSockets                 | [View Repo](https://github.com/akashdip2001/Realtime_Tracker)                        | `IoT`, `GPS`, `Web`, `Tracking`                        |
+| **GPS with ESP** 📶📡            | Simple **GPS module integration** with ESP32/ESP8266 to send data via serial/Wi-Fi. <br>**Tech:** GPS, ESP32, Arduino | [View Repo](https://github.com/akashdip2001/GPS-with-ESP)                            | `IoT`, `GPS`, `ESP32`, `Sensor`                        |
 
 ---
+
+</br>
 
 ## 🎮 **IoT Game Projects**
 
@@ -168,7 +175,10 @@
 
 ---
 
-## 🚀 Future Work
+</br>
+</br>
+
+## 🚀 Future Work &nbsp;&nbsp; (Hypothetical &#8800; &#x2260; &ne; impossible)
 
 | Project Name | Description | Repository Link |
 |--------------|-------------|-----------------|
