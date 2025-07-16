@@ -362,6 +362,14 @@ now i am learning Machine Learning using python
 <a href= #/> <img width ='150px' src ='https://user-images.githubusercontent.com/81384987/203129870-842d0a8a-7805-4174-b53e-f5a89250a6cd.png'> </a>
 <br>
 <br>
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+<p>
+ <img src="img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" width="38%" />
+ <img src="img/Badge/SolidWorks/Certificate_C-ME4NJVYF5R_page-0001.jpg" width="55%" />
+</p></div>
+
+<br>
+<br>
 
 | AutoCAD 2D | AutoCAD 3D | SolidWorks |
 | :---: | :---: | :---: |
@@ -372,6 +380,22 @@ now i am learning Machine Learning using python
  <img src="img/SolidWorks (2).png" width="32%" />
  <img src="img/SolidWorks (3).png" width="32%" />
 </p>
+
+<br>
+<br>
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+<p>
+ <img src="img/Badge/SolidWorks/sample exam result.jpg" width="35%" />
+ <img src="img/Badge/SolidWorks/pass result.jpg" width="62%" />
+</p></div>
+
+<br>
+<br>
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+<p>
+ <img src="img/Badge/SolidWorks/photo_2025-07-17_00-33-34.jpg" width="48%" />
+ <img src="img/Badge/SolidWorks/photo_2025-07-17_00-33-41.jpg" width="48%" />
+</p></div>
 
 
 <br>
