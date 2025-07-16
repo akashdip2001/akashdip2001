@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://akashdip2001.github.io/linktree/)
 
 
-[<img align="left" alt="logo" width="100" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001)
+[<img align="left" alt="logo" width="50" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001)
 <div style='display:flex; align-items:center; gap: 30px;' align='center'>
 <a href="https://www.linkedin.com/posts/akashdip2001_designed-part-assembly-activity-7351309016435740672-iC6p"><img src="img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" width="180px" height="180px" /></a>
 <!-- <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="180px" height="180px" /></a> -->
