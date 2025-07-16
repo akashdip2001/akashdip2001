@@ -5,6 +5,7 @@
 
 [<img align="left" alt="logo" width="150" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001)
 <div style='display:flex; align-items:center; gap: 30px;' align='center'>
+<a href="https://www.linkedin.com/posts/akashdip2001_designed-part-assembly-activity-7351309016435740672-iC6p"><img src="img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" width="180px" height="180px" /></a>
 <!-- <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="180px" height="180px" /></a> -->
 <a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="180px" height="180px" /></a>
 <a href="https://www.credly.com/badges/9e0d21a7-ee7a-4588-8e57-94bfa8185d8e/public_url"><img src="img/Badge/GitHub Administration.png" width="187px" height="187px" /></a>
