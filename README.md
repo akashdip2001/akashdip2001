@@ -355,6 +355,23 @@ now i am learning Machine Learning using python
 ## my Machine Design works,
 #### i am a Mechanical Engineering Student (2025), i also love Drawing & design
 
+<br>
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+<p>
+<img width="150"  alt="SOLIDWORKS Associate - CAD Design" src="https://github.com/user-attachments/assets/779ced6e-1b69-4c8e-bc98-a5b1a01ab814" />
+<img width="150"  alt="ASSOCIATE - SUSTAINABILITY" src="https://github.com/user-attachments/assets/6c1c285a-7ee5-40c6-9427-4a67506ef9e2" />
+<img width="150"  alt="ASSOCIATE - ADDITIVE MANUFACTURING" src="https://github.com/user-attachments/assets/7f49b96e-dfb4-49c5-954e-1221906abb79" />
+<img width="150"  alt="ASSOCIATE - 3DEXPERIENCE 3D Creator" src="https://github.com/user-attachments/assets/a41fec9d-debe-4611-83e9-173579c5b61d" />
+<img width="150"  alt="3DX-3DX-IFW_3DSWYMER" src="https://github.com/user-attachments/assets/16bb41c8-e29e-4d11-8092-ddf84245f239" />
+<img width="150"  alt="ASSOCIATE - 3DEXPERIENCE 3D Mold Creator" src="https://github.com/user-attachments/assets/a1ba38c5-6817-4150-a108-5a2f07d108ec" />
+<img width="150"  alt="ASSOCIATE - DRAFTSIGHT 2D DESIGN AND DRAFTING" src="https://github.com/user-attachments/assets/b98217fd-1fb1-4c78-b98c-718548301572" />
+</p></div>
+
+<details>
+  <summary style="opacity: 0.85;"><b>Exam Results 🥇</b></summary><br>
+ 
+---
+
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='130px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/f599bec6-9eef-45e1-8eec-c6d007b83411'> </a>&nbsp;
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='100px' src ='https://github.com/akashdip2001/akashdip2001/assets/81384987/a9be7860-d6cc-4821-8dfe-7c52c1ae61ac'> </a>&nbsp;
 <a href= https://youtu.be/ErIWwIEwdRA/> <img width ='170px' src ='https://akashdipmahapatra.netlify.app/wp-content/uploads/2022/06/AutocadCAD-300x101.png'> </a>&nbsp;
@@ -367,19 +384,6 @@ now i am learning Machine Learning using python
  <img src="img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" width="38%" />
  <img src="img/Badge/SolidWorks/Certificate_C-ME4NJVYF5R_page-0001.jpg" width="55%" />
 </p></div>
-
-<br>
-<br>
-
-| AutoCAD 2D | AutoCAD 3D | SolidWorks |
-| :---: | :---: | :---: |
-| [playList likn](https://youtube.com/playlist?list=PL_RecMEcs_p9D9Mw3hr-uLOXioiFdPDGd&si=AOfL6sZVMCxzmtrT) | [all videos](https://youtube.com/playlist?list=PL_RecMEcs_p9NEuljRr7hNsFiPASnJYQt&si=UPFIKc_Rp557CEnz) | [projects](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ&si=n0Y5dFLoPopeffCx) |
-
-<p float="left">
- <img src="img/SolidWorks (1).png" width="32%" />
- <img src="img/SolidWorks (2).png" width="32%" />
- <img src="img/SolidWorks (3).png" width="32%" />
-</p>
 
 <br>
 <br>
@@ -397,6 +401,27 @@ now i am learning Machine Learning using python
  <img src="img/Badge/SolidWorks/photo_2025-07-17_00-33-41.jpg" width="48%" />
 </p></div>
 
+<br>
+<br>
+
+https://github.com/user-attachments/assets/162eeff9-1611-45a9-87f8-36fe72158b01
+
+> Bending Stress of Carbon Stell - `Solidworks Simulation`
+
+</details>
+
+<br>
+<br>
+
+| AutoCAD 2D | AutoCAD 3D | SolidWorks |
+| :---: | :---: | :---: |
+| [playList likn](https://youtube.com/playlist?list=PL_RecMEcs_p9D9Mw3hr-uLOXioiFdPDGd&si=AOfL6sZVMCxzmtrT) | [all videos](https://youtube.com/playlist?list=PL_RecMEcs_p9NEuljRr7hNsFiPASnJYQt&si=UPFIKc_Rp557CEnz) | [projects](https://youtube.com/playlist?list=PL_RecMEcs_p-rR-kDstljCglAQ4li-RGZ&si=n0Y5dFLoPopeffCx) |
+
+<p float="left">
+ <img src="img/SolidWorks (1).png" width="32%" />
+ <img src="img/SolidWorks (2).png" width="32%" />
+ <img src="img/SolidWorks (3).png" width="32%" />
+</p>
 
 <br>
 
