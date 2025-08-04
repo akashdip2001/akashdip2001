@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/posts/akashdip2001_aws-devsecops-cloudpractitioner-activity-7342667659299233792-cnbE"><img src="img/Badge/AWS Certified Cloud Practitioner.png" width="150px" height="150px" /></a>&nbsp; &nbsp;
 <a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-cloud-quest-cloud-practitioner.png" width="150px" height="150px" /></a>
 <a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="img/Badge/Google Cloud Computing Foundations Certificate.png" width="160px" height="160px" /></a>
-<a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="img/Badge/akamai-cloud-computing-foundations-certification.png" width="160px" height="160px" /></a>
+<a href="https://www.credly.com/users/akashdip2001"><img src="img/Badge/akamai-cloud-computing-foundations-certification.png" width="160px" height="160px" /></a>
 </br>
  
 <details>
