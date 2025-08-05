@@ -71,6 +71,10 @@
    </br>
     <a href="https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c"><img src="https://github.com/user-attachments/assets/9fe80737-878c-42a4-8d61-5014746225eb"/></a> 
    </br>
+
+![Java 2018_page-0001](https://github.com/user-attachments/assets/0a986d76-eeda-4446-b24b-3bae9ab73aba)
+![CertificateOfCompletion_Programming Foundations Databases_page-0001](https://github.com/user-attachments/assets/3f0967fa-cbcf-4aae-bf55-181cbed3d907)
+
    
    <details>
     <summary style="opacity: 0.85;"><b>☁️ Google Cloud Badges 🥇</b></summary><br>
