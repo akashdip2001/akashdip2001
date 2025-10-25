@@ -59,7 +59,7 @@
 </br>
 </br>
 
-   <a href="https://learn.microsoft.com/en-us/users/akashdip2001/credentials/3a9d77112c32f726"><img src="img/Badge/Microsoft Certified Azure AI Fundamentals.png" width="155px" height="155px" /></a>
+   <a href="https://learn.microsoft.com/en-us/users/akashdip2001/credentials/3a9d77112c32f726"><img src="https://github.com/user-attachments/assets/da47e5b3-2603-4fbc-a432-befdc03212fa" width="155px" height="155px" /></a>
    <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" width="150px" height="150px" /></a>
    <a href="https://www.linkedin.com/posts/akashdip2001_oraclecertified-artificialintelligence-machinelearning-activity-7302354236472770562-VmMA"><img src="img/Badge/Oracle AI Vector Search Certified Professional.png" width="150px" height="150px" /></a>
    <a href="https://www.linkedin.com/posts/akashdip2001_ai-foundations-associate-activity-7295821440686141440-jBoM"><img src="https://github.com/user-attachments/assets/bc2275fe-17e9-48af-b25a-e2a9aa13d35c" width="150px" height="150px" /></a>
