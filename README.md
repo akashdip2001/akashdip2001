@@ -5,13 +5,14 @@
 
 [<img align="left" alt="logo" width="50" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001)
 <div style='display:flex; align-items:center; gap: 30px;' align='center'>
-<a href="https://www.linkedin.com/posts/akashdip2001_designed-part-assembly-activity-7351309016435740672-iC6p"><img src="img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" width="180px" height="180px" /></a>
+<a href="https://www.linkedin.com/posts/akashdip2001_designed-part-assembly-activity-7351309016435740672-iC6p"><img src="img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" width="150px" height="180px" /></a>
 <!-- <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="180px" height="180px" /></a> -->
-<a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" width="180px" height="180px" /></a>
-<a href="https://www.credly.com/badges/9e0d21a7-ee7a-4588-8e57-94bfa8185d8e/public_url"><img src="img/Badge/GitHub Administration.png" width="187px" height="187px" /></a>
-<a href="https://www.credly.com/users/akashdip2001"><img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" width="180px" height="180px" /></a>
+<a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="img/Badge/github-actions.png" height="150px" /></a>
+<a href="https://www.credly.com/badges/9e0d21a7-ee7a-4588-8e57-94bfa8185d8e/public_url"><img src="img/Badge/GitHub Administration.png" height="155px" /></a>
+<a href="https://www.credly.com/users/akashdip2001"><img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" height="150px" /></a>
+<a href="https://learn.microsoft.com/en-us/users/akashdip2001/credentials/aa9e4130816324d7?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://github.com/user-attachments/assets/38dbb19d-3c50-45fe-a40f-5d75d67addff" height="155px" /></a>
 </br>
-
+ 
 <a href="https://www.linkedin.com/posts/akashdip2001_postman-api-certification-activity-7264947968200368128-MHWG"><img src="img/Badge/Postman White badge.png" width="150px" height="150px" /></a>&nbsp;
 <a href="https://www.linkedin.com/posts/akashdip2001_aws-devsecops-cloudpractitioner-activity-7342667659299233792-cnbE"><img src="img/Badge/AWS Certified Cloud Practitioner.png" width="150px" height="150px" /></a>&nbsp; &nbsp;
 <a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="img/Badge/aws-cloud-quest-cloud-practitioner.png" width="150px" height="150px" /></a>
