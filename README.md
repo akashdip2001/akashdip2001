@@ -1,6 +1,6 @@
 ![Banner Image](https://user-images.githubusercontent.com/81384987/236854925-8284fc07-b28b-41eb-a00d-3b9a1b75cf43.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://akashdip2001.github.io/linktree/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Experience+matters+more+than+SUCESS.+)](https://akashdip2001.github.io/linktree/)
 
 
 [<img align="left" alt="logo" width="50" src="img/about-nav-image.png">](https://www.credly.com/users/akashdip2001)
@@ -103,7 +103,11 @@
  <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Drawing,+Coding,+Hacking;Mechanical+Engineer&center=true&width=380&height=45"/>
 </p> -->
-<h3 src="https://youtu.be/ysBF9EfvWkk?t=428" align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3> 
+<h3 src="https://youtu.be/ysBF9EfvWkk?t=428" align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&text=Success%20looks%20good%20on%20paper%2C%20but%20experiences%20truly%20make%20you%20feel%20alive&height=160&fontSize=20&desc=fail,%20learn%20and%20repeat&descAlignY=75&descAlign=50" alt="Motivational Banner"/>
+</p>
 
 ---
 
