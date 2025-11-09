@@ -109,6 +109,12 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&text=Success%20looks%20good%20on%20paper%2C%20but%20experiences%20truly%20make%20you%20feel%20alive&height=160&fontSize=20&desc=fail,%20learn%20and%20repeat&descAlignY=75&descAlign=50" alt="Motivational Banner"/>
 </p>
 
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=akashdip2001&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
 </br>
