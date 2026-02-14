@@ -316,6 +316,10 @@
 ## Dev-Ops i know
 ### [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=gcp,aws)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=kubernetes,kafka)](https://skillicons.dev) => [![My Skills](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
 
+<img width="1364" height="629" alt="aws-ba-2026-02-14" src="https://github.com/user-attachments/assets/97ba7490-f862-4649-8e04-3c59a5906dc1" />
+
+> **aws services** i use in [@britishairways](https://github.com/BritishAirways-Ent) `everyday` 2025-2026
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## iOT [source-code 🔗](https://github.com/akashdip2001/ESP32-host-HTML-website/blob/main/README.md) or [full-Video 🔗](https://youtu.be/ySJt3QGyr9w)
