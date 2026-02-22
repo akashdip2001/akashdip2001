@@ -147,6 +147,14 @@
 </br>
 </br>
 
+<img width="4604" height="5258" alt="diagram-export-20-02-2026-17_53_22" src="https://github.com/user-attachments/assets/36760ae7-59e2-43e4-8590-5ee6fae7a61d" />
+
+> **current project** - (British Airways) TCS, 2025 - 2026 , Click to see the [working account](https://github.com/AkashdipMahapatra-BA)
+
+
+</br>
+</br>
+
 > 🍁 very good projects `Developing from scratch`. </br>
 > 📶📡 Network related projects.
 
