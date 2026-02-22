@@ -150,7 +150,7 @@
 <img width="4604" height="5258" alt="diagram-export-20-02-2026-17_53_22" src="https://github.com/user-attachments/assets/36760ae7-59e2-43e4-8590-5ee6fae7a61d" />
 
 > **current project** - (British Airways) TCS, 2025 - 2026 , Click to see the [working account](https://github.com/AkashdipMahapatra-BA) </br>
-> NB: Thin is a over view understanding of my current working project - **This is not a actual LLD**.
+> **NB:** This is a over-view understanding of my current working project - **This is not a actual LLD**.
 
 </br>
 </br>
