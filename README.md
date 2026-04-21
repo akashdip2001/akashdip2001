@@ -149,7 +149,9 @@
 
 <img width="1111" height="491" alt="Screenshot 2026-04-21 124148" src="https://github.com/user-attachments/assets/715ff01f-5857-4f24-9628-c7be0f826af2" />
 
-> This is a one small part of a complete Data Product, one of many Data Product in a M1 AWS cluster - Click to see the [working account](https://github.com/AkashdipMahapatra-BA)
+> This is a one small part of a complete Data Product, one of many Data Products in a M1 AWS cluster - Click to see the [working account](https://github.com/AkashdipMahapatra-BA)
+
+ </br>
  
 <details>
   <summary style="opacity: 0.85;"><b>M2 cluster</b></summary><br>
