@@ -164,6 +164,13 @@
 
 </details>
 
+### ⚡ Fun Fact / Current Focus: I recently transitioned into the DevOps space, and my favorite part so far is being a "sponge" during massive enterprise migrations. While I'm mastering the fundamentals, I'm actively sitting in on cross-squad migration groups (like our MSK Migration task force). I might not be writing all the final migration scripts yet, but I'm absorbing the architecture, the planning, and the problem-solving required to move critical data products without breaking a sweat!
+
+</br>
+
+<img width="1366" height="618" alt="image" src="https://github.com/user-attachments/assets/0b6ea890-54a3-4c86-8d84-85094edc8be9" />
+
+
 </br>
 </br>
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
